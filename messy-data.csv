@@ -1,0 +1,1001 @@
+﻿id,Are you looking for a job?,Q13-C22 - Do you work currently? - Answer,How far do you live from current or previous work - less than 5 km,How far are you able to commute - less than 5 km,How far do you live from current or previous work - 5 -10 km,How far are you able to commute - less than 5 - 10 km,How far do you live from current or previous work - 11 - 20 km,How far are you able to commute - less than 11 - 20 km,How far do you live from current or previous work - 21 - 50 km,How far are you able to commute - less than 21 - 50 km,How far do you live from current or previous work - 51 - 100 km,How far are you able to commute - less than 51 - 100 km,How far do you live from current or previous work - more than 100 km,How far are you able to commute - more than 100 km,What is your current or previous monthly net salary - up to 1000 EUR,How much would you like to get monthly - up to 1000 EUR,What is your current or previous monthly net salary - 1001 - 1500 EUR,How much would you like to get monthly - 1001 - 1500 EUR,What is your current or previous monthly net salary - 2001 - 3000 EUR,How much would you like to get monthly - 2001 - 3000 EUR,What is your current or previous monthly net salary - 3001 - 4000 EUR,How much would you like to get monthly - 3001 - 4000 EUR,What is your current or previous monthly net salary - 4001 - 5000 EUR,How much would you like to get monthly - 4001 - 5000 EUR,What is your current or previous monthly net salary - 5001 - 6000 EUR,How much would you like to get monthly - 5001 - 6000 EUR,What is your current or previous monthly net salary - more than 6000 EUR,How much would you like to get monthly - more than 6000 EUR,What is your current or previous monthly net salary - refuse to answer,How much would you like to get monthly - refuse to answer,Have you ever worked before?,Are you keen on moving closer to your work place?,D1# City size,D2# Gender,D3# Age,D4# Education
+81,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,yes,village,male,18 - 24 years,secondary
+82,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,200k - 500k inhabitants,female,25 - 30 years,higher
+83,yes,yes,,,current job,sought-after job,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,yes,more than 500k inhabitants,female,18 - 24 years,vocational
+84,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,female,18 - 24 years,basic
+85,yes,no,,,previous job,sought-after job,,,,,,,,,,sought-after job,previous job,,,,,,,,,,,,,,yes,no,more than 500k inhabitants,female,more than 50 years,secondary
+86,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,female,31 - 40 years,vocational
+87,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,male,more than 50 years,secondary
+88,yes,no,previous job,,,,,,,,,,,,,sought-after job,,,,,previous job,,,,,,,,,sought-after job,yes,no,village,male,18 - 24 years,secondary
+1,yes,no,previous job,,,sought-after job,,sought-after job,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,no,city up to 20k inhabitants,female,31 - 40 years,secondary
+2,yes,no,previous job,sought-after job,,,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,100k - 199k inhabitants,male,more than 50 years,secondary
+3,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,50k - 99k inhabitants,female,41 - 50 years,secondary
+4,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,20k - 49k inhabitants,female,41 - 50 years,secondary
+5,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,50k - 99k inhabitants,female,25 - 30 years,secondary
+6,yes,yes,current job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,city up to 20k inhabitants,female,25 - 30 years,higher
+7,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,25 - 30 years,higher
+8,yes,no,,,,,,sought-after job,,,previous job,,,,,,,,previous job,,,,,sought-after job,,,,,,,yes,no,village,male,more than 50 years,vocational
+2217,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,50k - 99k inhabitants,female,25 - 30 years,higher
+2218,yes,yes,current job,,,,,,,sought-after job,,,,,,,,,,,,sought-after job,,,,,,,current job,,NULL,no,village,male,31 - 40 years,higher
+2219,yes,no,previous job,,,sought-after job,,,,,,,,,,,,,,,,,previous job,sought-after job,,,,,,,yes,yes,more than 500k inhabitants,male,31 - 40 years,higher
+2220,yes,no,,sought-after job,,sought-after job,previous job,sought-after job,,,,,,,,sought-after job,previous job,,,,,,,,,,,,,,yes,no,200k - 500k inhabitants,male,18 - 24 years,secondary
+2221,yes,yes,,,current job,,,sought-after job,,,,,,,,,,,current job,,,,,sought-after job,,,,,,,NULL,no,200k - 500k inhabitants,male,more than 50 years,higher
+2222,yes,yes,current job,sought-after job,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,50k - 99k inhabitants,male,25 - 30 years,secondary
+313,yes,yes,,,,,current job,sought-after job,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,yes,50k - 99k inhabitants,female,18 - 24 years,secondary
+314,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,20k - 49k inhabitants,male,more than 50 years,secondary
+2224,yes,yes,,,current job,sought-after job,,sought-after job,,,,,,,current job,sought-after job,,sought-after job,,,,,,,,,,,,,NULL,no,100k - 199k inhabitants,male,31 - 40 years,higher
+315,yes,yes,,,,,current job,sought-after job,,,,,,,,,,,current job,sought-after job,,,,,,,,,,,NULL,no,200k - 500k inhabitants,male,25 - 30 years,secondary
+2223,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,,,,,,yes,no,20k - 49k inhabitants,male,18 - 24 years,secondary
+316,yes,no,,,previous job,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,village,female,31 - 40 years,secondary
+317,yes,no,,,,,,,previous job,,,sought-after job,,,,,,,,sought-after job,,,previous job,,,,,,,,yes,no,village,male,41 - 50 years,higher
+318,yes,yes,,,,sought-after job,,,current job,,,,,,,,current job,sought-after job,,sought-after job,,,,,,,,,,,NULL,no,city up to 20k inhabitants,female,18 - 24 years,secondary
+319,yes,yes,current job,sought-after job,,sought-after job,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,200k - 500k inhabitants,female,18 - 24 years,higher
+320,yes,no,,,previous job,sought-after job,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,,,yes,no,village,female,18 - 24 years,secondary
+1785,yes,yes,,,,sought-after job,current job,,,,,,,,,,,,,,,,,,,,,,current job,sought-after job,NULL,no,more than 500k inhabitants,male,more than 50 years,secondary
+1786,yes,no,,,,sought-after job,,,,,previous job,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,no,100k - 199k inhabitants,female,more than 50 years,basic
+1787,yes,no,,sought-after job,,sought-after job,previous job,,,,,,,,,sought-after job,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,yes,no,100k - 199k inhabitants,male,18 - 24 years,secondary
+1788,yes,no,,,,sought-after job,,,,,previous job,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,village,female,31 - 40 years,secondary
+1789,yes,yes,,,,sought-after job,current job,,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,100k - 199k inhabitants,female,25 - 30 years,higher
+1790,yes,no,previous job,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,yes,city up to 20k inhabitants,female,25 - 30 years,vocational
+1791,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,male,31 - 40 years,higher
+1792,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,male,31 - 40 years,higher
+2321,yes,yes,current job,,,,,,,sought-after job,,,,,,,current job,,,,,sought-after job,,,,,,,,,NULL,no,city up to 20k inhabitants,female,31 - 40 years,secondary
+2322,yes,yes,,,,sought-after job,current job,,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,yes,100k - 199k inhabitants,female,18 - 24 years,higher
+173,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,male,18 - 24 years,secondary
+174,yes,no,previous job,,,,,,,,,,,sought-after job,,,,,,,,,,,,sought-after job,,,previous job,,yes,yes,50k - 99k inhabitants,female,31 - 40 years,secondary
+175,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,male,18 - 24 years,secondary
+176,yes,no,,,previous job,,,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,no,village,female,25 - 30 years,vocational
+2323,yes,yes,,sought-after job,,sought-after job,,sought-after job,current job,,current job,,,,,,current job,,,sought-after job,,sought-after job,,sought-after job,,,,,,,NULL,yes,more than 500k inhabitants,female,31 - 40 years,vocational
+2324,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,female,25 - 30 years,higher
+2325,yes,no,,,,,previous job,sought-after job,,,,,,,previous job,,,,,,,,,,,,,,,sought-after job,yes,yes,village,male,25 - 30 years,higher
+2326,yes,no,,sought-after job,previous job,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,yes,50k - 99k inhabitants,female,41 - 50 years,secondary
+2327,yes,yes,current job,sought-after job,,,,,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,20k - 49k inhabitants,male,18 - 24 years,secondary
+2328,yes,no,previous job,,,sought-after job,,,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,yes,no,more than 500k inhabitants,male,41 - 50 years,secondary
+33,yes,no,,sought-after job,previous job,,,,,,,,,,,,,sought-after job,,,,,,,,,,,previous job,,yes,no,more than 500k inhabitants,male,18 - 24 years,basic
+34,yes,no,,,,sought-after job,previous job,,,,,,,,previous job,,,,,,,sought-after job,,,,,,sought-after job,,,yes,yes,more than 500k inhabitants,female,18 - 24 years,vocational
+35,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,village,female,18 - 24 years,secondary
+36,yes,yes,,,current job,sought-after job,,,,,,,,,,,,,,,,,current job,,,sought-after job,,,,,NULL,no,200k - 500k inhabitants,male,25 - 30 years,higher
+37,yes,yes,,sought-after job,,sought-after job,,,current job,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,yes,50k - 99k inhabitants,female,31 - 40 years,higher
+38,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,previous job,sought-after job,,,,,,,,,,,,,yes,no,100k - 199k inhabitants,male,31 - 40 years,higher
+39,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,200k - 500k inhabitants,male,25 - 30 years,basic
+40,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,city up to 20k inhabitants,male,31 - 40 years,secondary
+1673,yes,no,,,,sought-after job,previous job,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,yes,more than 500k inhabitants,male,25 - 30 years,basic
+1674,yes,no,,,previous job,,,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,no,more than 500k inhabitants,female,18 - 24 years,higher
+1675,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,50k - 99k inhabitants,male,25 - 30 years,secondary
+1676,yes,no,previous job,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,yes,100k - 199k inhabitants,female,25 - 30 years,higher
+1677,yes,yes,current job,sought-after job,,,,,,,,,,,,,,,,,,sought-after job,,,,,,,current job,,NULL,yes,100k - 199k inhabitants,male,25 - 30 years,higher
+1678,yes,yes,,sought-after job,current job,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,more than 500k inhabitants,male,18 - 24 years,higher
+1679,yes,yes,,,,sought-after job,,,,,current job,,,,,,,,current job,,,sought-after job,,,,,,,,,NULL,yes,city up to 20k inhabitants,male,31 - 40 years,higher
+171,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,male,18 - 24 years,secondary
+172,yes,no,previous job,,,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,50k - 99k inhabitants,female,more than 50 years,secondary
+1680,yes,yes,current job,sought-after job,,,,,,,,,,sought-after job,,,,,,,,sought-after job,current job,sought-after job,,sought-after job,,,,,NULL,yes,100k - 199k inhabitants,male,25 - 30 years,higher
+169,yes,no,,,,,previous job,sought-after job,,,,,,,,,,sought-after job,previous job,sought-after job,,,,,,,,,,,yes,no,50k - 99k inhabitants,female,31 - 40 years,secondary
+170,yes,no,,sought-after job,,sought-after job,previous job,sought-after job,,,,,,,,sought-after job,,sought-after job,previous job,sought-after job,,,,,,,,,,,yes,no,more than 500k inhabitants,female,18 - 24 years,secondary
+161,yes,yes,,sought-after job,current job,,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,more than 500k inhabitants,male,31 - 40 years,higher
+163,yes,yes,,,,,current job,sought-after job,,,,,,,,,,,current job,sought-after job,,,,,,,,,,,NULL,no,village,female,18 - 24 years,basic
+164,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,male,31 - 40 years,secondary
+165,yes,no,,,,,previous job,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,more than 500k inhabitants,male,18 - 24 years,secondary
+162,yes,no,,sought-after job,,sought-after job,previous job,sought-after job,,,,,,,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,,,yes,yes,village,female,18 - 24 years,higher
+166,yes,yes,,,,,current job,,,sought-after job,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,yes,village,female,25 - 30 years,higher
+167,yes,yes,,,,sought-after job,current job,,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,village,male,31 - 40 years,vocational
+168,yes,no,,,,,,,,sought-after job,,,previous job,,,,,,,,previous job,,,,,sought-after job,,,,,yes,no,village,male,25 - 30 years,higher
+177,yes,no,,,,,previous job,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,yes,20k - 49k inhabitants,male,18 - 24 years,vocational
+178,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,,,yes,no,village,female,41 - 50 years,secondary
+179,yes,yes,,,,sought-after job,current job,,,,,,,,,,,,,sought-after job,current job,,,,,,,,,,NULL,no,200k - 500k inhabitants,male,25 - 30 years,higher
+180,yes,no,previous job,,,sought-after job,,,,,,,,,,,,sought-after job,previous job,,,,,,,,,,,,yes,no,100k - 199k inhabitants,female,more than 50 years,secondary
+181,yes,no,,,previous job,sought-after job,,,,,,,,,previous job,,,sought-after job,,sought-after job,,,,,,,,,,,yes,no,village,female,31 - 40 years,higher
+182,yes,yes,,,,,,,,sought-after job,current job,,,,,,,,current job,,,sought-after job,,,,,,,,,NULL,no,200k - 500k inhabitants,male,25 - 30 years,higher
+183,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,city up to 20k inhabitants,female,41 - 50 years,secondary
+184,yes,no,,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,sought-after job,,,,,,,,,,,yes,yes,50k - 99k inhabitants,female,18 - 24 years,higher
+73,yes,no,,,,,,,,,,,previous job,sought-after job,,,previous job,,,,,sought-after job,,,,,,,,,yes,yes,city up to 20k inhabitants,male,more than 50 years,vocational
+74,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,,,sought-after job,,,,,,,,,,,yes,yes,200k - 500k inhabitants,male,18 - 24 years,secondary
+75,yes,yes,,,current job,,,,,sought-after job,,,,,,,,,,,,,current job,,,sought-after job,,,,,NULL,no,100k - 199k inhabitants,male,31 - 40 years,secondary
+76,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,20k - 49k inhabitants,male,25 - 30 years,secondary
+77,yes,no,,,,,,,previous job,,,,,,previous job,,,,,,,,,,,,,,,,yes,yes,city up to 20k inhabitants,male,41 - 50 years,vocational
+78,yes,yes,current job,,,,,,,sought-after job,,,,,,,,,,,current job,,,sought-after job,,,,,,,NULL,no,village,male,41 - 50 years,vocational
+79,yes,yes,current job,sought-after job,,,,,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,NULL,yes,more than 500k inhabitants,female,41 - 50 years,higher
+80,yes,no,,sought-after job,previous job,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,18 - 24 years,secondary
+153,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,female,41 - 50 years,vocational
+154,yes,no,,sought-after job,,,previous job,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,18 - 24 years,secondary
+155,yes,yes,,,,sought-after job,current job,sought-after job,,,,,,,current job,,,sought-after job,,sought-after job,,,,,,,,,,,NULL,yes,100k - 199k inhabitants,female,18 - 24 years,secondary
+156,yes,yes,,,,,current job,,,sought-after job,,,,,current job,,,,,,,sought-after job,,,,,,,,,NULL,yes,village,male,41 - 50 years,secondary
+157,yes,yes,,,,,,,current job,sought-after job,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,city up to 20k inhabitants,male,18 - 24 years,secondary
+158,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,previous job,,,,,,,,,,,,,,,sought-after job,yes,no,village,female,18 - 24 years,secondary
+159,yes,yes,current job,sought-after job,,,,,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,20k - 49k inhabitants,female,18 - 24 years,higher
+160,yes,yes,current job,,,,,sought-after job,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,yes,100k - 199k inhabitants,female,18 - 24 years,secondary
+961,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,20k - 49k inhabitants,female,25 - 30 years,higher
+962,yes,yes,,,,,,,current job,sought-after job,,,,,,,,,,,,,,,,,,,current job,sought-after job,NULL,no,village,male,18 - 24 years,secondary
+963,yes,no,,,,sought-after job,previous job,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,yes,50k - 99k inhabitants,male,more than 50 years,vocational
+964,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,yes,village,male,18 - 24 years,basic
+965,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,200k - 500k inhabitants,female,41 - 50 years,secondary
+966,yes,yes,,,,sought-after job,,,current job,,,,,,,,,sought-after job,,,,,,,,,,,current job,,NULL,no,village,female,31 - 40 years,secondary
+967,yes,no,previous job,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,yes,more than 500k inhabitants,female,41 - 50 years,secondary
+968,yes,no,previous job,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,village,female,31 - 40 years,basic
+146,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,male,31 - 40 years,secondary
+147,yes,yes,,,current job,,,,,sought-after job,,,,,,,,,current job,,,,,sought-after job,,,,,,,NULL,yes,20k - 49k inhabitants,female,31 - 40 years,higher
+145,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,previous job,,,,,sought-after job,,,,,,,,,,,yes,no,village,male,18 - 24 years,secondary
+148,yes,yes,,,,,,sought-after job,,,,,current job,,,,,,,,current job,,,,,sought-after job,,,,,NULL,no,20k - 49k inhabitants,male,more than 50 years,secondary
+149,yes,yes,current job,sought-after job,,sought-after job,,,,,,,,,,,current job,sought-after job,,sought-after job,,,,,,,,,,,NULL,no,city up to 20k inhabitants,female,25 - 30 years,higher
+150,yes,no,previous job,,,,,,,sought-after job,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,village,female,41 - 50 years,secondary
+151,yes,no,,sought-after job,previous job,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,more than 500k inhabitants,female,25 - 30 years,secondary
+152,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,male,31 - 40 years,basic
+137,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,20k - 49k inhabitants,male,more than 50 years,vocational
+138,yes,yes,,,,,,sought-after job,current job,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,200k - 500k inhabitants,female,41 - 50 years,higher
+139,yes,no,,,previous job,,,,,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,200k - 500k inhabitants,male,more than 50 years,higher
+141,yes,no,previous job,,,sought-after job,,,,,,,,,,,,sought-after job,,,,,previous job,,,,,,,,yes,no,more than 500k inhabitants,female,18 - 24 years,higher
+143,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,yes,city up to 20k inhabitants,female,18 - 24 years,higher
+144,yes,no,,,previous job,,,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,200k - 500k inhabitants,male,41 - 50 years,vocational
+2721,yes,no,previous job,,,sought-after job,,,,,,,,,,,,sought-after job,,,,,,,,,,,previous job,,yes,no,20k - 49k inhabitants,female,18 - 24 years,secondary
+140,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,,,yes,no,200k - 500k inhabitants,female,more than 50 years,secondary
+142,yes,yes,,,,sought-after job,current job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,,,,,current job,,,sought-after job,,sought-after job,,sought-after job,,,NULL,yes,city up to 20k inhabitants,male,18 - 24 years,vocational
+2722,yes,yes,,sought-after job,,,current job,,,,,,,,,,,,current job,,,,,,,sought-after job,,,,,NULL,yes,100k - 199k inhabitants,male,more than 50 years,secondary
+2723,yes,yes,current job,sought-after job,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,city up to 20k inhabitants,male,31 - 40 years,secondary
+2724,yes,yes,,sought-after job,,,current job,,,,,,,,current job,,,,,,,sought-after job,,,,,,,,,NULL,yes,more than 500k inhabitants,male,25 - 30 years,secondary
+2725,yes,yes,,,,,current job,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,200k - 500k inhabitants,male,18 - 24 years,vocational
+2726,yes,yes,current job,,,,,,,sought-after job,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,city up to 20k inhabitants,male,41 - 50 years,secondary
+2727,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,20k - 49k inhabitants,male,41 - 50 years,secondary
+2728,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,sought-after job,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,18 - 24 years,higher
+2817,yes,no,,,,,previous job,,,sought-after job,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,yes,yes,village,male,31 - 40 years,secondary
+2818,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,,,,,,,,,,,,,,,previous job,sought-after job,yes,yes,more than 500k inhabitants,male,25 - 30 years,secondary
+2819,yes,yes,current job,,,sought-after job,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,village,male,41 - 50 years,secondary
+2820,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,male,31 - 40 years,higher
+2821,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,previous job,,,sought-after job,,sought-after job,,,,,,,,,,,yes,no,100k - 199k inhabitants,female,31 - 40 years,higher
+2822,yes,no,previous job,,,,,sought-after job,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,city up to 20k inhabitants,female,25 - 30 years,higher
+2823,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,no,200k - 500k inhabitants,male,25 - 30 years,secondary
+2824,yes,yes,,,,,,sought-after job,current job,,,,,,,,,,current job,,,sought-after job,,,,,,,,,NULL,no,20k - 49k inhabitants,male,25 - 30 years,secondary
+25,yes,no,,,,sought-after job,,,previous job,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,yes,no,200k - 500k inhabitants,male,18 - 24 years,secondary
+26,yes,yes,current job,,,,,sought-after job,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,village,female,31 - 40 years,secondary
+27,yes,yes,,sought-after job,current job,,,,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,village,male,more than 50 years,secondary
+28,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,yes,city up to 20k inhabitants,male,31 - 40 years,secondary
+29,yes,yes,,,,,current job,,,sought-after job,,,,,,,,,current job,,,,,,,sought-after job,,,,,NULL,no,city up to 20k inhabitants,male,41 - 50 years,higher
+386,yes,yes,,sought-after job,,,current job,,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,NULL,no,50k - 99k inhabitants,male,more than 50 years,secondary
+30,yes,no,,sought-after job,previous job,sought-after job,,sought-after job,,,,,,,,,previous job,,,sought-after job,,sought-after job,,,,,,,,,yes,no,more than 500k inhabitants,male,18 - 24 years,vocational
+31,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,100k - 199k inhabitants,female,18 - 24 years,secondary
+32,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,50k - 99k inhabitants,male,31 - 40 years,secondary
+65,yes,yes,,,,,,sought-after job,current job,,,,,,,,,,,,,,,,,,,,current job,sought-after job,NULL,no,city up to 20k inhabitants,male,41 - 50 years,secondary
+66,yes,yes,current job,,,,,,,sought-after job,,,,,,,,,,,,,,sought-after job,,,,,current job,,NULL,yes,50k - 99k inhabitants,male,25 - 30 years,secondary
+67,yes,no,,,previous job,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,more than 500k inhabitants,female,18 - 24 years,secondary
+68,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,200k - 500k inhabitants,female,more than 50 years,vocational
+69,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,200k - 500k inhabitants,female,25 - 30 years,higher
+70,yes,yes,,,,,,,,,,,current job,,,,,,current job,,,sought-after job,,,,,,,,,NULL,yes,village,male,31 - 40 years,higher
+71,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,,,,sought-after job,,,previous job,,,,,,,,yes,no,100k - 199k inhabitants,male,31 - 40 years,higher
+72,yes,yes,current job,sought-after job,,sought-after job,,,,,,,,,,,,,current job,sought-after job,,sought-after job,,,,,,,,,NULL,no,more than 500k inhabitants,male,25 - 30 years,higher
+129,yes,yes,,,current job,,,sought-after job,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,village,male,41 - 50 years,vocational
+130,yes,yes,,sought-after job,current job,,,,,,,,,,current job,sought-after job,,,,,,,,,,,,,,,NULL,no,more than 500k inhabitants,female,41 - 50 years,secondary
+131,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,no,200k - 500k inhabitants,female,18 - 24 years,higher
+132,yes,no,,sought-after job,previous job,,,,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,yes,no,200k - 500k inhabitants,male,41 - 50 years,higher
+133,yes,no,,,,,,sought-after job,previous job,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,no,village,female,31 - 40 years,higher
+134,yes,no,previous job,,,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,male,25 - 30 years,secondary
+135,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,50k - 99k inhabitants,female,more than 50 years,secondary
+136,yes,no,,,,,,,previous job,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,yes,village,male,more than 50 years,basic
+1897,yes,no,previous job,,,sought-after job,,,,,,,,,previous job,,,sought-after job,,sought-after job,,,,,,,,,,,yes,yes,city up to 20k inhabitants,male,25 - 30 years,basic
+2677,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,31 - 40 years,secondary
+2678,yes,yes,,,,,,sought-after job,,,current job,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,100k - 199k inhabitants,male,31 - 40 years,higher
+2679,yes,no,,sought-after job,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,200k - 500k inhabitants,male,18 - 24 years,vocational
+2680,yes,no,,sought-after job,previous job,,previous job,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,,,yes,no,50k - 99k inhabitants,male,18 - 24 years,secondary
+2865,yes,yes,,sought-after job,current job,sought-after job,,sought-after job,,,,,,,current job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,,,NULL,no,more than 500k inhabitants,female,25 - 30 years,secondary
+2866,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,20k - 49k inhabitants,male,more than 50 years,secondary
+2867,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,yes,20k - 49k inhabitants,female,18 - 24 years,secondary
+2871,yes,no,,,,,previous job,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,no,village,male,more than 50 years,vocational
+1026,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,200k - 500k inhabitants,female,18 - 24 years,secondary
+1027,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,city up to 20k inhabitants,male,41 - 50 years,secondary
+2868,yes,no,,sought-after job,,sought-after job,previous job,sought-after job,,,,,,,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,,,yes,no,village,female,25 - 30 years,higher
+2869,yes,yes,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,current job,,,,,,,,,,,,,,,,current job,sought-after job,NULL,no,200k - 500k inhabitants,female,25 - 30 years,higher
+2870,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,sought-after job,,sought-after job,,,,,,,,,yes,yes,50k - 99k inhabitants,female,18 - 24 years,higher
+2872,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,,sought-after job,,sought-after job,,,,,,,,,,,yes,no,village,female,18 - 24 years,secondary
+1025,yes,no,previous job,,,sought-after job,,sought-after job,,,,,,,,,previous job,,,sought-after job,,sought-after job,,,,,,,,,yes,no,more than 500k inhabitants,female,18 - 24 years,higher
+1028,yes,no,,,,,previous job,,,sought-after job,,,,,,,,,,sought-after job,,,previous job,,,,,,,,yes,no,village,female,25 - 30 years,higher
+1029,yes,no,previous job,,,sought-after job,,,,,,,,,,,,,,,,sought-after job,,sought-after job,,,,,previous job,,yes,yes,200k - 500k inhabitants,male,41 - 50 years,secondary
+1030,yes,no,,sought-after job,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,previous job,,,,,,,,,,,,,sought-after job,yes,yes,village,male,41 - 50 years,secondary
+1031,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,female,25 - 30 years,higher
+1032,yes,yes,,sought-after job,,sought-after job,current job,sought-after job,,sought-after job,,,,,current job,,,sought-after job,,sought-after job,,sought-after job,,,,,,,,,NULL,no,more than 500k inhabitants,male,18 - 24 years,secondary
+249,yes,no,,sought-after job,,,previous job,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,41 - 50 years,vocational
+250,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,female,less than 18 years,basic
+251,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,village,female,18 - 24 years,secondary
+252,yes,yes,current job,sought-after job,,sought-after job,,sought-after job,,,,,,,current job,,,,,sought-after job,,sought-after job,,,,,,,,,NULL,no,city up to 20k inhabitants,female,25 - 30 years,higher
+253,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,,,,,,,,,,,,,previous job,sought-after job,yes,no,village,female,18 - 24 years,secondary
+254,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,male,31 - 40 years,vocational
+255,yes,no,previous job,,,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,city up to 20k inhabitants,female,41 - 50 years,secondary
+256,yes,no,,,previous job,sought-after job,,,,,,,,,,,,sought-after job,previous job,,,,,,,,,,,,yes,no,more than 500k inhabitants,male,more than 50 years,secondary
+387,yes,yes,,,,sought-after job,,,current job,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,20k - 49k inhabitants,female,18 - 24 years,secondary
+388,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,male,more than 50 years,secondary
+1953,yes,no,,sought-after job,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,more than 500k inhabitants,female,18 - 24 years,secondary
+1954,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,male,18 - 24 years,higher
+1955,yes,yes,current job,,,sought-after job,,,,,,,,,,,current job,sought-after job,,sought-after job,,,,,,,,,,,NULL,no,20k - 49k inhabitants,male,41 - 50 years,secondary
+1956,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,male,18 - 24 years,secondary
+1957,yes,yes,,,,,,,,,,sought-after job,current job,,,,,,,,,sought-after job,,sought-after job,,,,,current job,,NULL,no,village,male,25 - 30 years,higher
+1958,yes,yes,,,,,,,,sought-after job,current job,,,,,,,,current job,,,,,sought-after job,,,,,,,NULL,no,more than 500k inhabitants,female,25 - 30 years,higher
+1959,yes,yes,,,,,,sought-after job,current job,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,50k - 99k inhabitants,male,25 - 30 years,vocational
+1960,yes,no,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,,,,,previous job,sought-after job,yes,no,village,female,18 - 24 years,secondary
+1505,yes,no,previous job,sought-after job,,,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,no,50k - 99k inhabitants,male,41 - 50 years,secondary
+1506,yes,yes,,,,sought-after job,,,current job,,,,,,,,,,current job,,,sought-after job,,sought-after job,,,,,,,NULL,yes,city up to 20k inhabitants,female,41 - 50 years,higher
+1507,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,village,male,18 - 24 years,vocational
+1508,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,200k - 500k inhabitants,female,18 - 24 years,secondary
+1509,yes,no,previous job,,,sought-after job,,,,,,,,,,sought-after job,,,,,,,,,,,,,previous job,,yes,no,city up to 20k inhabitants,male,less than 18 years,vocational
+1510,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,yes,20k - 49k inhabitants,male,18 - 24 years,secondary
+1511,yes,no,previous job,,,,,,,,,,,,previous job,,,,,,,,,,,,,,,,yes,no,100k - 199k inhabitants,male,more than 50 years,secondary
+1512,yes,yes,current job,sought-after job,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,yes,20k - 49k inhabitants,female,25 - 30 years,secondary
+2577,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,male,18 - 24 years,secondary
+2578,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,200k - 500k inhabitants,female,18 - 24 years,secondary
+2579,yes,no,,sought-after job,previous job,,,,,,,,,,,,,,,,,,,,,,,,previous job,sought-after job,yes,no,200k - 500k inhabitants,male,more than 50 years,secondary
+2580,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,,,yes,no,more than 500k inhabitants,female,18 - 24 years,secondary
+2581,yes,no,,,,,,,previous job,sought-after job,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,50k - 99k inhabitants,female,18 - 24 years,secondary
+2582,yes,yes,,,,,current job,,,sought-after job,,sought-after job,,,,,,,current job,,,sought-after job,,,,,,,,,NULL,no,village,male,31 - 40 years,secondary
+2583,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,female,31 - 40 years,higher
+385,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,20k - 49k inhabitants,male,more than 50 years,secondary
+2584,yes,no,previous job,,,sought-after job,,,,,,,,,previous job,,,sought-after job,,sought-after job,,,,,,,,,,,yes,yes,city up to 20k inhabitants,male,25 - 30 years,higher
+389,yes,yes,,sought-after job,,,current job,,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,NULL,no,more than 500k inhabitants,female,41 - 50 years,secondary
+390,yes,yes,,,,,,,current job,sought-after job,,,,,,,,,,,current job,,,sought-after job,,,,,,,NULL,yes,village,male,25 - 30 years,secondary
+391,yes,yes,,,,,current job,sought-after job,,,,,,,,,,,current job,,,,,,,,,sought-after job,,,NULL,yes,200k - 500k inhabitants,male,31 - 40 years,secondary
+392,yes,yes,current job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,,,,,,,,,,,,,current job,sought-after job,,,,,NULL,no,village,male,18 - 24 years,secondary
+2273,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,50k - 99k inhabitants,male,41 - 50 years,vocational
+2274,yes,no,previous job,,,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,200k - 500k inhabitants,female,18 - 24 years,secondary
+2275,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,female,31 - 40 years,higher
+2276,yes,no,,,,,previous job,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,no,200k - 500k inhabitants,female,more than 50 years,secondary
+2277,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,50k - 99k inhabitants,female,18 - 24 years,secondary
+2278,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,previous job,,,sought-after job,,,,,,,,,,,yes,yes,more than 500k inhabitants,male,18 - 24 years,vocational
+2279,yes,no,,,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,no,more than 500k inhabitants,male,more than 50 years,vocational
+2280,yes,no,,,,sought-after job,,,previous job,,,,,,,,,,,sought-after job,,,,,previous job,,,,,,yes,no,city up to 20k inhabitants,male,31 - 40 years,higher
+3233,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,20k - 49k inhabitants,male,41 - 50 years,higher
+3234,yes,yes,current job,,,,,sought-after job,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,20k - 49k inhabitants,male,18 - 24 years,vocational
+3235,yes,yes,current job,sought-after job,,,,,,,,,,,,,,,,,,,,,,,,,current job,sought-after job,NULL,yes,more than 500k inhabitants,male,41 - 50 years,secondary
+3236,yes,no,,,,,,sought-after job,,,,,previous job,,,,,,,,,,previous job,sought-after job,,,,,,,yes,yes,50k - 99k inhabitants,male,41 - 50 years,secondary
+3237,yes,no,,,,sought-after job,previous job,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,no,50k - 99k inhabitants,male,31 - 40 years,secondary
+3238,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,male,31 - 40 years,secondary
+3239,yes,no,previous job,,,sought-after job,,,,,,,,,,,,,,sought-after job,previous job,,,,,,,,,,yes,no,more than 500k inhabitants,female,31 - 40 years,secondary
+3240,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,male,31 - 40 years,higher
+652,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,female,25 - 30 years,secondary
+2068,yes,no,previous job,sought-after job,,,,,,,,,,,,sought-after job,,,previous job,,,,,,,,,,,,yes,no,200k - 500k inhabitants,female,more than 50 years,secondary
+3322,yes,no,,,,,,sought-after job,previous job,sought-after job,,sought-after job,,,,,previous job,,,,,,,,,,,,,,yes,no,village,male,18 - 24 years,secondary
+3324,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,more than 500k inhabitants,female,25 - 30 years,secondary
+3325,yes,no,,,previous job,,,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,yes,village,male,18 - 24 years,secondary
+3326,yes,no,,,,sought-after job,previous job,sought-after job,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,no,100k - 199k inhabitants,male,25 - 30 years,secondary
+3321,yes,yes,current job,sought-after job,,sought-after job,,,,,,,,,,,current job,sought-after job,,sought-after job,,,,,,,,,,,NULL,no,200k - 500k inhabitants,female,more than 50 years,secondary
+3323,yes,no,previous job,sought-after job,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,sought-after job,previous job,sought-after job,previous job,sought-after job,,sought-after job,,,,,,,,,yes,yes,city up to 20k inhabitants,male,18 - 24 years,higher
+3327,yes,no,,,previous job,,,sought-after job,,,,,,,,,,sought-after job,previous job,,,,,,,,,,,,yes,no,village,female,25 - 30 years,secondary
+3328,yes,yes,,,,,,,current job,sought-after job,,,,,,,,,,sought-after job,,,,,,,,,current job,,NULL,no,more than 500k inhabitants,female,18 - 24 years,higher
+2961,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,previous job,,,sought-after job,,sought-after job,,,,,,,,,,,yes,no,more than 500k inhabitants,female,25 - 30 years,secondary
+2962,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,female,31 - 40 years,higher
+2963,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,no,more than 500k inhabitants,male,18 - 24 years,secondary
+2964,yes,no,previous job,,,sought-after job,,,,,,,,,,,,,,sought-after job,,,,,,,,,previous job,,yes,no,city up to 20k inhabitants,female,41 - 50 years,secondary
+2965,yes,no,previous job,,,,,,,,,,,,previous job,,,,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,more than 50 years,vocational
+2966,yes,no,,,previous job,,,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,100k - 199k inhabitants,male,25 - 30 years,vocational
+2967,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,,sought-after job,previous job,sought-after job,,,,,,,,,,,,,yes,no,more than 500k inhabitants,female,18 - 24 years,secondary
+2968,yes,no,,,,sought-after job,previous job,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,100k - 199k inhabitants,female,18 - 24 years,vocational
+2169,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,male,41 - 50 years,vocational
+2170,yes,no,,,,,previous job,,,sought-after job,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,village,female,18 - 24 years,higher
+2171,yes,yes,current job,,,,,sought-after job,,,,,,,,sought-after job,current job,,,,,,,,,,,,,,NULL,no,50k - 99k inhabitants,female,18 - 24 years,secondary
+2173,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,male,25 - 30 years,higher
+2174,yes,no,,,,sought-after job,,,previous job,,,,,,,,,,,sought-after job,previous job,,,,,,,,,,yes,no,20k - 49k inhabitants,female,41 - 50 years,secondary
+2172,yes,no,,sought-after job,,,previous job,,,,,,,,previous job,,,sought-after job,,sought-after job,,,,,,,,,,,yes,yes,20k - 49k inhabitants,female,31 - 40 years,basic
+2175,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,male,less than 18 years,basic
+2176,yes,no,,,,,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,village,male,25 - 30 years,higher
+777,yes,yes,current job,,,,,sought-after job,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,200k - 500k inhabitants,female,31 - 40 years,higher
+778,yes,yes,current job,,,,,,,,,,,,,,current job,sought-after job,,,,,,,,,,,,,NULL,no,more than 500k inhabitants,female,18 - 24 years,secondary
+779,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,100k - 199k inhabitants,female,18 - 24 years,secondary
+1901,yes,yes,current job,,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,more than 500k inhabitants,female,more than 50 years,vocational
+780,yes,yes,,sought-after job,,sought-after job,,sought-after job,current job,,,,,,,,current job,,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,NULL,no,village,male,25 - 30 years,vocational
+781,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,100k - 199k inhabitants,female,18 - 24 years,secondary
+782,yes,no,,,,sought-after job,previous job,sought-after job,,sought-after job,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,village,female,25 - 30 years,secondary
+783,yes,no,,,previous job,sought-after job,,sought-after job,,,,,,,,sought-after job,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,no,village,female,18 - 24 years,secondary
+784,yes,yes,,,current job,sought-after job,,,,,,,,,,,,,current job,sought-after job,,sought-after job,,,,,,,,,NULL,yes,more than 500k inhabitants,female,41 - 50 years,secondary
+3577,yes,yes,current job,,,,,sought-after job,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,100k - 199k inhabitants,male,25 - 30 years,higher
+3578,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,male,18 - 24 years,secondary
+3579,yes,no,,,,sought-after job,,,previous job,,,,,,,sought-after job,,sought-after job,,,,,,,,,,,previous job,,yes,no,village,female,18 - 24 years,vocational
+3580,yes,no,,,previous job,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,100k - 199k inhabitants,female,25 - 30 years,secondary
+3581,yes,no,,sought-after job,previous job,,,,,,,,,,,,,sought-after job,,,,,,,,,,,previous job,,yes,yes,20k - 49k inhabitants,female,18 - 24 years,basic
+3582,yes,no,,,,,,sought-after job,,sought-after job,,,previous job,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,yes,yes,village,male,18 - 24 years,secondary
+3583,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,yes,20k - 49k inhabitants,female,18 - 24 years,higher
+3584,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,200k - 500k inhabitants,female,18 - 24 years,higher
+649,yes,no,previous job,,,,,,,,,,,sought-after job,previous job,,,,,sought-after job,,,,,,,,,,,yes,yes,city up to 20k inhabitants,female,18 - 24 years,higher
+650,yes,no,,,previous job,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,100k - 199k inhabitants,male,41 - 50 years,higher
+651,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,20k - 49k inhabitants,female,18 - 24 years,higher
+653,yes,no,,sought-after job,previous job,sought-after job,,sought-after job,,,,,,,,,previous job,,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,,,yes,yes,city up to 20k inhabitants,male,25 - 30 years,higher
+654,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,,,yes,no,more than 500k inhabitants,female,more than 50 years,secondary
+655,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,more than 500k inhabitants,female,less than 18 years,basic
+656,yes,yes,current job,sought-after job,,,,,,,,,,,,,,,,,,,,,,,,,current job,sought-after job,NULL,no,200k - 500k inhabitants,male,18 - 24 years,secondary
+2377,yes,no,,,previous job,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,200k - 500k inhabitants,male,25 - 30 years,secondary
+2378,yes,yes,,,current job,sought-after job,,,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,NULL,yes,more than 500k inhabitants,male,25 - 30 years,higher
+2379,yes,no,,,previous job,,,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,yes,no,20k - 49k inhabitants,male,18 - 24 years,secondary
+2380,yes,no,,sought-after job,previous job,sought-after job,,,,,,,,,previous job,,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,,,yes,yes,more than 500k inhabitants,male,41 - 50 years,vocational
+2381,yes,yes,,,,,current job,sought-after job,,,,,,,current job,,,sought-after job,,sought-after job,,,,,,,,,,,NULL,no,village,female,41 - 50 years,secondary
+2382,yes,yes,,,,sought-after job,current job,,,,,,,,,,,,current job,sought-after job,,,,,,,,,,,NULL,yes,village,female,31 - 40 years,secondary
+2383,yes,no,,sought-after job,,sought-after job,previous job,sought-after job,,,,,,,,,,,,,,,,,,,,,previous job,sought-after job,yes,no,village,female,18 - 24 years,secondary
+2384,yes,no,,sought-after job,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,yes,yes,100k - 199k inhabitants,male,18 - 24 years,higher
+3145,yes,no,,sought-after job,,sought-after job,,sought-after job,previous job,sought-after job,,,,,,,previous job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,,,yes,yes,city up to 20k inhabitants,female,31 - 40 years,secondary
+3146,yes,yes,,,,sought-after job,current job,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,20k - 49k inhabitants,female,31 - 40 years,higher
+3147,yes,no,,sought-after job,previous job,sought-after job,,sought-after job,,,,,,,previous job,,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,,,,,yes,no,100k - 199k inhabitants,female,31 - 40 years,higher
+3150,yes,no,,,previous job,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,city up to 20k inhabitants,male,41 - 50 years,basic
+3151,yes,no,,,previous job,sought-after job,,,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,yes,no,100k - 199k inhabitants,male,25 - 30 years,higher
+3152,yes,yes,,sought-after job,,,current job,,,,,,,,,,current job,,,,,sought-after job,,,,,,,,,NULL,yes,200k - 500k inhabitants,female,25 - 30 years,higher
+3409,yes,yes,current job,sought-after job,,,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,50k - 99k inhabitants,female,18 - 24 years,secondary
+3148,yes,no,,,,sought-after job,,sought-after job,,sought-after job,previous job,sought-after job,,sought-after job,,,,,,,previous job,sought-after job,,sought-after job,,sought-after job,,,,,yes,yes,city up to 20k inhabitants,male,41 - 50 years,secondary
+3149,yes,no,,sought-after job,,sought-after job,previous job,sought-after job,,,,,,,,sought-after job,previous job,sought-after job,,,,,,,,,,,,,yes,yes,village,female,41 - 50 years,secondary
+3410,yes,yes,current job,sought-after job,,sought-after job,,,,,,,,,,,,,,,,,,,,,,,current job,sought-after job,NULL,yes,50k - 99k inhabitants,male,18 - 24 years,secondary
+3411,yes,yes,,,,,,sought-after job,current job,,,,,,,,,,,,,,,,,,,sought-after job,current job,,NULL,no,more than 500k inhabitants,male,25 - 30 years,secondary
+3412,yes,no,previous job,,,sought-after job,,,,,,,,,previous job,,,,,sought-after job,,,,,,,,,,,yes,no,village,female,41 - 50 years,vocational
+3413,yes,no,,,previous job,,,,,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,yes,city up to 20k inhabitants,male,41 - 50 years,secondary
+3414,yes,no,previous job,,,sought-after job,,,,,,,,,,,,,,,previous job,,,sought-after job,,,,,,,yes,yes,200k - 500k inhabitants,male,more than 50 years,higher
+3415,yes,no,,,,,,,previous job,sought-after job,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,yes,village,male,more than 50 years,secondary
+3416,yes,yes,current job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,current job,,,sought-after job,,sought-after job,,,,,,,,,NULL,no,200k - 500k inhabitants,male,18 - 24 years,secondary
+905,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,20k - 49k inhabitants,female,41 - 50 years,secondary
+906,yes,no,,,,sought-after job,previous job,sought-after job,,,,,,,previous job,,,sought-after job,,sought-after job,,sought-after job,,,,,,,,,yes,yes,village,female,31 - 40 years,secondary
+907,yes,no,,,,sought-after job,previous job,,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,yes,no,more than 500k inhabitants,male,41 - 50 years,basic
+908,yes,no,,,previous job,sought-after job,,,,,,,,,,,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,yes,no,50k - 99k inhabitants,female,18 - 24 years,secondary
+909,yes,no,,sought-after job,,,,,,,,,previous job,,,,,,,,,sought-after job,previous job,,,,,,,,yes,no,more than 500k inhabitants,male,more than 50 years,vocational
+910,yes,yes,current job,sought-after job,,sought-after job,,,,,,,,,current job,sought-after job,,sought-after job,,,,,,,,,,,,,NULL,no,200k - 500k inhabitants,female,18 - 24 years,secondary
+911,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,,,sought-after job,,,,,,,,,,,yes,no,more than 500k inhabitants,female,41 - 50 years,secondary
+912,yes,yes,,,,sought-after job,current job,,,,,,,,,,current job,,,,,sought-after job,,,,,,,,,NULL,no,village,male,25 - 30 years,vocational
+2065,yes,yes,current job,sought-after job,,,,,,,,,,,,sought-after job,current job,sought-after job,,,,,,,,,,,,,NULL,yes,50k - 99k inhabitants,female,18 - 24 years,higher
+2066,yes,yes,current job,sought-after job,,sought-after job,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,20k - 49k inhabitants,male,31 - 40 years,vocational
+2067,yes,yes,,,,,current job,sought-after job,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,NULL,no,more than 500k inhabitants,male,41 - 50 years,vocational
+2069,yes,yes,,sought-after job,,,,,current job,,,,,,,,,,,sought-after job,,,,,,,,,current job,,NULL,no,50k - 99k inhabitants,female,25 - 30 years,secondary
+2070,yes,no,previous job,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,no,100k - 199k inhabitants,male,18 - 24 years,secondary
+2071,yes,no,,,,,previous job,,,sought-after job,,,,,,,,sought-after job,previous job,sought-after job,,,,,,,,,,,yes,no,village,female,more than 50 years,secondary
+2072,yes,yes,current job,sought-after job,,,,,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,NULL,yes,more than 500k inhabitants,male,18 - 24 years,higher
+521,yes,yes,,sought-after job,,,current job,,,,,,,,current job,,,,,,,sought-after job,,,,,,,,,NULL,yes,village,female,31 - 40 years,vocational
+522,yes,yes,,,,,current job,sought-after job,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,village,male,41 - 50 years,secondary
+523,yes,yes,,,current job,,,,,,,,,,,,current job,,,,,,,,,,,,,,NULL,no,100k - 199k inhabitants,male,31 - 40 years,vocational
+524,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,village,male,18 - 24 years,secondary
+525,yes,no,,,,,,sought-after job,,,,,,,,,,,,,,,,,,,,,previous job,sought-after job,yes,no,50k - 99k inhabitants,female,18 - 24 years,secondary
+1898,yes,yes,,sought-after job,current job,,,,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,NULL,no,city up to 20k inhabitants,male,25 - 30 years,secondary
+1899,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,city up to 20k inhabitants,male,18 - 24 years,secondary
+1900,yes,yes,,,,,current job,sought-after job,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,100k - 199k inhabitants,male,41 - 50 years,secondary
+1902,yes,no,previous job,,,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,yes,100k - 199k inhabitants,female,31 - 40 years,higher
+1903,yes,yes,current job,sought-after job,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,200k - 500k inhabitants,female,18 - 24 years,secondary
+1904,yes,yes,,,,,,sought-after job,,,,,current job,,,,,,,,,,current job,,,sought-after job,,,,,NULL,no,city up to 20k inhabitants,male,41 - 50 years,secondary
+2113,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,,sought-after job,,,,,,,,,,,,,previous job,,yes,no,20k - 49k inhabitants,female,18 - 24 years,secondary
+2114,yes,yes,,,,,,sought-after job,,,current job,,,,,,,,,sought-after job,current job,sought-after job,,,,,,,,,NULL,no,city up to 20k inhabitants,male,31 - 40 years,higher
+2115,yes,no,previous job,,,,,,,,,,,,previous job,,,,,,,,,,,,,,,,yes,no,100k - 199k inhabitants,female,18 - 24 years,vocational
+2117,yes,yes,current job,,,sought-after job,,sought-after job,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,village,male,18 - 24 years,secondary
+2118,yes,yes,,,,,,sought-after job,current job,,,,,,,,,,,,current job,,,sought-after job,,,,,,,NULL,yes,200k - 500k inhabitants,male,more than 50 years,secondary
+2120,yes,no,,,,,previous job,,,,,,,,,,previous job,,,,,sought-after job,,,,,,,,,yes,no,20k - 49k inhabitants,female,41 - 50 years,basic
+121,yes,yes,,,current job,,,sought-after job,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,village,male,18 - 24 years,secondary
+2116,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,200k - 500k inhabitants,male,18 - 24 years,vocational
+2119,yes,no,,,,sought-after job,previous job,,,,,,,,previous job,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,no,100k - 199k inhabitants,female,18 - 24 years,secondary
+122,yes,no,previous job,,,,,,,,,,,sought-after job,,,previous job,,,,,,,sought-after job,,,,,,,yes,yes,village,male,41 - 50 years,secondary
+123,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,male,more than 50 years,secondary
+124,yes,no,previous job,sought-after job,,,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,no,100k - 199k inhabitants,female,25 - 30 years,higher
+125,yes,yes,,,,,,,current job,sought-after job,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,village,male,25 - 30 years,higher
+126,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,village,female,less than 18 years,basic
+127,yes,yes,current job,sought-after job,,,,,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,NULL,no,200k - 500k inhabitants,male,more than 50 years,vocational
+128,yes,no,previous job,,,sought-after job,,,,,,,,,,,,sought-after job,,,previous job,,,,,,,,,,yes,no,200k - 500k inhabitants,female,31 - 40 years,higher
+449,yes,yes,current job,,,,,sought-after job,,,,,,,,,,,,sought-after job,,,,,,,,,current job,,NULL,no,city up to 20k inhabitants,female,25 - 30 years,higher
+450,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,20k - 49k inhabitants,male,31 - 40 years,higher
+451,yes,no,,,,sought-after job,,,,,,,,,,,,,,,,,,,,,,,,sought-after job,yes,no,village,female,25 - 30 years,higher
+452,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,female,31 - 40 years,secondary
+453,yes,yes,,,,sought-after job,,,current job,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,yes,200k - 500k inhabitants,male,31 - 40 years,higher
+454,yes,yes,current job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,,,,,,,current job,sought-after job,,,,,,,,,,,NULL,no,village,female,41 - 50 years,secondary
+455,yes,yes,current job,sought-after job,,,,,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,20k - 49k inhabitants,female,31 - 40 years,secondary
+456,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,50k - 99k inhabitants,male,31 - 40 years,higher
+1561,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,city up to 20k inhabitants,female,18 - 24 years,secondary
+1562,yes,no,,sought-after job,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,yes,yes,village,male,18 - 24 years,secondary
+1563,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,,,,,,sought-after job,,sought-after job,previous job,sought-after job,,,,,yes,yes,more than 500k inhabitants,female,25 - 30 years,higher
+1564,yes,no,previous job,,,,,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,village,female,more than 50 years,secondary
+1565,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,city up to 20k inhabitants,female,41 - 50 years,higher
+1566,yes,yes,,,,sought-after job,,,,,current job,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,200k - 500k inhabitants,male,25 - 30 years,basic
+1567,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,200k - 500k inhabitants,female,18 - 24 years,higher
+1568,yes,yes,,,,sought-after job,,,,,,,current job,,,,,,current job,sought-after job,,,,,,,,,,,NULL,no,village,male,41 - 50 years,secondary
+2425,yes,no,previous job,,,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,city up to 20k inhabitants,female,31 - 40 years,higher
+2426,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,50k - 99k inhabitants,female,more than 50 years,secondary
+2427,yes,no,,,,sought-after job,previous job,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,village,female,more than 50 years,secondary
+2428,yes,no,,,,,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,city up to 20k inhabitants,female,41 - 50 years,vocational
+2429,yes,yes,,,,sought-after job,current job,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,50k - 99k inhabitants,female,31 - 40 years,secondary
+2430,yes,yes,current job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,yes,50k - 99k inhabitants,male,18 - 24 years,secondary
+2431,yes,no,,,previous job,sought-after job,,,,,,,,,previous job,,,,,,,sought-after job,,,,,,,,,yes,no,50k - 99k inhabitants,female,41 - 50 years,vocational
+2432,yes,yes,,,,sought-after job,,,current job,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,yes,100k - 199k inhabitants,female,31 - 40 years,secondary
+57,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,,,yes,no,200k - 500k inhabitants,female,25 - 30 years,secondary
+58,yes,no,previous job,sought-after job,,,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,no,50k - 99k inhabitants,male,25 - 30 years,higher
+59,yes,no,,,,sought-after job,previous job,,,,,,,,previous job,,,,,sought-after job,,,,,,,,,,,yes,no,village,female,41 - 50 years,higher
+60,yes,yes,current job,,,sought-after job,,,,,,,,,,,current job,sought-after job,,sought-after job,,,,,,,,,,,NULL,no,20k - 49k inhabitants,female,18 - 24 years,secondary
+62,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,more than 50 years,higher
+63,yes,no,,sought-after job,previous job,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,200k - 500k inhabitants,female,31 - 40 years,higher
+61,yes,yes,,sought-after job,,sought-after job,,sought-after job,current job,,,,,,,sought-after job,current job,sought-after job,,sought-after job,,,,,,,,,,,NULL,no,village,female,25 - 30 years,higher
+64,yes,no,,,,,,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,more than 500k inhabitants,male,18 - 24 years,basic
+113,yes,yes,,,,,current job,sought-after job,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,yes,city up to 20k inhabitants,male,18 - 24 years,higher
+114,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,male,25 - 30 years,higher
+115,yes,yes,,sought-after job,,,,,current job,,,,,,,,,,current job,,,,,sought-after job,,,,,,,NULL,no,city up to 20k inhabitants,male,more than 50 years,vocational
+117,yes,yes,,,current job,sought-after job,,,,,,,,,,,,,current job,sought-after job,,,,,,,,,,,NULL,no,20k - 49k inhabitants,male,more than 50 years,secondary
+116,yes,no,,,,,,,previous job,,,,,sought-after job,,,,,,,,sought-after job,previous job,sought-after job,,sought-after job,,,,,yes,no,village,male,18 - 24 years,higher
+118,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,city up to 20k inhabitants,male,41 - 50 years,vocational
+2628,yes,yes,current job,,,sought-after job,,,,,,,,,,,,,current job,sought-after job,,,,,,,,,,,NULL,no,200k - 500k inhabitants,male,25 - 30 years,secondary
+119,yes,no,,sought-after job,previous job,sought-after job,,sought-after job,,,,,,,previous job,,,sought-after job,,sought-after job,,sought-after job,,,,,,,,,yes,no,village,female,18 - 24 years,secondary
+120,yes,no,,,,,,sought-after job,previous job,,,,,,,,,,,,,,previous job,sought-after job,,,,,,,yes,no,village,male,25 - 30 years,secondary
+3097,yes,no,,,,,previous job,,,,,,,,previous job,,,,,,,,,,,,,,,,yes,no,village,male,41 - 50 years,vocational
+3098,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,,,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,yes,yes,20k - 49k inhabitants,female,31 - 40 years,secondary
+3099,yes,yes,,,current job,,,sought-after job,,,,,,,,,,,current job,sought-after job,,sought-after job,,,,,,,,,NULL,no,50k - 99k inhabitants,male,25 - 30 years,secondary
+3100,yes,no,,sought-after job,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,sought-after job,,,,,,,,,yes,no,more than 500k inhabitants,male,more than 50 years,vocational
+3101,yes,no,,,,,previous job,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,village,female,41 - 50 years,vocational
+3102,yes,no,previous job,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,200k - 500k inhabitants,female,18 - 24 years,secondary
+3103,yes,yes,,,,,,,,sought-after job,current job,,,,,,current job,,,,,sought-after job,,,,,,,,,NULL,yes,village,male,18 - 24 years,secondary
+3104,yes,no,,,,,previous job,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,200k - 500k inhabitants,female,31 - 40 years,secondary
+17,yes,no,previous job,,,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,100k - 199k inhabitants,female,31 - 40 years,secondary
+18,yes,yes,,,,sought-after job,current job,,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,yes,more than 500k inhabitants,male,more than 50 years,secondary
+19,yes,no,,,previous job,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,200k - 500k inhabitants,male,more than 50 years,vocational
+20,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,200k - 500k inhabitants,male,31 - 40 years,higher
+21,yes,no,,sought-after job,previous job,sought-after job,,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,yes,50k - 99k inhabitants,male,25 - 30 years,secondary
+22,yes,yes,,,,sought-after job,,,current job,,,,,,current job,,,,,,,sought-after job,,sought-after job,,,,,,,NULL,no,50k - 99k inhabitants,male,41 - 50 years,secondary
+23,yes,yes,,,current job,sought-after job,,,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,yes,50k - 99k inhabitants,male,more than 50 years,vocational
+24,yes,yes,,,,sought-after job,,,current job,,,,,,,,current job,,,,,sought-after job,,,,,,,,,NULL,yes,50k - 99k inhabitants,male,31 - 40 years,secondary
+2625,yes,no,,,,,previous job,sought-after job,,,,,,,previous job,,,,,,,,,,,,,,,,yes,yes,village,male,18 - 24 years,secondary
+2626,yes,no,,,,sought-after job,previous job,,,,,,,,previous job,,,,,sought-after job,,,,,,,,,,,yes,no,more than 500k inhabitants,female,more than 50 years,secondary
+2627,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,more than 500k inhabitants,female,18 - 24 years,secondary
+2629,yes,no,,,,,,,,,,,previous job,sought-after job,,,,,previous job,sought-after job,,,,,,,,,,,yes,yes,200k - 500k inhabitants,male,more than 50 years,secondary
+2630,yes,yes,current job,,,sought-after job,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,20k - 49k inhabitants,female,25 - 30 years,higher
+2631,yes,yes,current job,sought-after job,,sought-after job,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,yes,100k - 199k inhabitants,female,31 - 40 years,vocational
+2632,yes,no,,,,,,,previous job,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,city up to 20k inhabitants,male,18 - 24 years,secondary
+3449,yes,no,,,previous job,,,,,,,,,,,,previous job,,,,,,,,,,,,,,yes,yes,more than 500k inhabitants,male,25 - 30 years,secondary
+3450,yes,yes,,,current job,sought-after job,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,50k - 99k inhabitants,male,31 - 40 years,secondary
+3451,yes,no,,sought-after job,previous job,sought-after job,previous job,,,,,,,,previous job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,,,,,yes,no,200k - 500k inhabitants,female,18 - 24 years,secondary
+3452,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,male,31 - 40 years,higher
+3453,yes,yes,,sought-after job,current job,,,,,,,,,,current job,,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,,,,,NULL,no,200k - 500k inhabitants,male,18 - 24 years,secondary
+3454,yes,no,,,,,,,previous job,sought-after job,,,,,previous job,,previous job,,,sought-after job,,,,,,,,,,,yes,yes,village,female,18 - 24 years,higher
+3455,yes,yes,,sought-after job,current job,sought-after job,,sought-after job,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,village,female,18 - 24 years,secondary
+3456,yes,no,,sought-after job,previous job,,,,,,,,,,previous job,,,,,,,,,,,,,,,sought-after job,yes,no,200k - 500k inhabitants,female,41 - 50 years,vocational
+2913,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,village,female,18 - 24 years,higher
+2914,yes,yes,current job,,,,,sought-after job,,,,,,,current job,sought-after job,,,,,,,,,,,,,current job,sought-after job,NULL,no,100k - 199k inhabitants,female,18 - 24 years,secondary
+2915,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,male,more than 50 years,vocational
+2916,yes,yes,,sought-after job,,,current job,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,city up to 20k inhabitants,female,18 - 24 years,secondary
+2917,yes,yes,,,current job,sought-after job,,,,,,,,,,sought-after job,current job,,,,,,,,,,,,,,NULL,yes,more than 500k inhabitants,female,41 - 50 years,vocational
+2919,yes,no,,,,,previous job,,,,,,,,previous job,,,,,,,,,sought-after job,,,,,,,yes,yes,100k - 199k inhabitants,male,41 - 50 years,vocational
+2920,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,village,female,31 - 40 years,higher
+2918,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,yes,50k - 99k inhabitants,male,25 - 30 years,secondary
+3617,yes,yes,current job,sought-after job,,sought-after job,,,,,,,,,,,current job,,current job,sought-after job,,,,,,,,,,,NULL,no,200k - 500k inhabitants,female,18 - 24 years,secondary
+3618,yes,no,previous job,,,,,,,,,,,,,,,,,,,,previous job,,,,,,,,yes,no,village,male,25 - 30 years,secondary
+3619,yes,yes,,sought-after job,current job,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,50k - 99k inhabitants,female,31 - 40 years,secondary
+3620,yes,no,,,previous job,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,20k - 49k inhabitants,male,more than 50 years,vocational
+3621,yes,no,,,previous job,,,sought-after job,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,200k - 500k inhabitants,male,18 - 24 years,secondary
+3622,yes,no,,sought-after job,,,,,,,,,,,,sought-after job,,sought-after job,,sought-after job,,,,,,,,,,,yes,no,village,male,18 - 24 years,vocational
+3623,yes,yes,current job,,,sought-after job,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,yes,100k - 199k inhabitants,female,18 - 24 years,higher
+3624,yes,no,,,,,,sought-after job,previous job,,,,,,,,,sought-after job,previous job,sought-after job,,,,,,,,,,,yes,no,village,female,18 - 24 years,secondary
+105,yes,no,,,previous job,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,yes,village,female,31 - 40 years,secondary
+106,yes,no,,,,,previous job,,,sought-after job,,,,,previous job,,,,,sought-after job,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,25 - 30 years,higher
+107,yes,yes,,,,,,,current job,sought-after job,,,,,,,,,current job,,,sought-after job,,,,,,,,,NULL,yes,village,male,25 - 30 years,secondary
+108,yes,no,,sought-after job,,sought-after job,previous job,sought-after job,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,,,yes,no,200k - 500k inhabitants,female,18 - 24 years,secondary
+109,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,male,31 - 40 years,higher
+110,yes,no,,sought-after job,previous job,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,18 - 24 years,secondary
+111,yes,yes,,sought-after job,current job,,,,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,20k - 49k inhabitants,female,more than 50 years,secondary
+112,yes,no,previous job,,,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,yes,more than 500k inhabitants,female,18 - 24 years,secondary
+1209,yes,no,previous job,,,,,,,,,,,,previous job,,,,,,,,,,,,,,,,yes,no,more than 500k inhabitants,male,31 - 40 years,basic
+1210,yes,yes,,,,,current job,sought-after job,,,,,,,,,,,current job,,,,,sought-after job,,,,,,,NULL,no,village,male,25 - 30 years,secondary
+1211,yes,no,previous job,sought-after job,,,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,yes,20k - 49k inhabitants,male,41 - 50 years,vocational
+1212,yes,no,,,previous job,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,yes,city up to 20k inhabitants,female,31 - 40 years,vocational
+1213,yes,yes,,,,,,sought-after job,,,,,current job,,,,,,,sought-after job,,,,,current job,,,,,,NULL,no,village,male,41 - 50 years,secondary
+1214,yes,yes,current job,,,,,sought-after job,,,,,,,,,,,,,,,,,,,,,current job,sought-after job,NULL,no,city up to 20k inhabitants,male,25 - 30 years,higher
+1215,yes,yes,current job,sought-after job,,,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,20k - 49k inhabitants,female,25 - 30 years,higher
+1216,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,male,25 - 30 years,secondary
+1329,yes,no,,sought-after job,previous job,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,more than 500k inhabitants,female,more than 50 years,vocational
+1330,yes,no,,,previous job,sought-after job,,,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,yes,yes,more than 500k inhabitants,male,25 - 30 years,secondary
+1331,yes,no,previous job,sought-after job,,,,,,,,,,,,,,,,,,,,,,,,,previous job,sought-after job,yes,no,more than 500k inhabitants,female,18 - 24 years,secondary
+1332,yes,no,,,,,,,previous job,,,,,,,,,,,,previous job,,,,,,,,,sought-after job,yes,no,village,male,41 - 50 years,secondary
+1333,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,20k - 49k inhabitants,male,more than 50 years,higher
+1334,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,200k - 500k inhabitants,female,25 - 30 years,basic
+1335,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,50k - 99k inhabitants,female,41 - 50 years,secondary
+1336,yes,no,,sought-after job,,sought-after job,,sought-after job,,sought-after job,previous job,sought-after job,,,,,previous job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,yes,no,50k - 99k inhabitants,male,18 - 24 years,secondary
+49,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,50k - 99k inhabitants,male,31 - 40 years,vocational
+50,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,200k - 500k inhabitants,male,31 - 40 years,higher
+51,yes,no,previous job,,,,,,,,,sought-after job,,,previous job,,,,,sought-after job,,,,,,,,,,,yes,yes,city up to 20k inhabitants,male,31 - 40 years,higher
+52,yes,no,previous job,sought-after job,previous job,sought-after job,previous job,,,,,,,,,,,,,,,,,,,,,,previous job,sought-after job,yes,no,50k - 99k inhabitants,male,18 - 24 years,secondary
+53,yes,yes,current job,sought-after job,,,,,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,yes,20k - 49k inhabitants,male,31 - 40 years,higher
+54,yes,yes,,sought-after job,,,,,,,current job,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,yes,more than 500k inhabitants,female,18 - 24 years,higher
+55,yes,no,previous job,,,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,more than 500k inhabitants,male,more than 50 years,vocational
+56,yes,no,,sought-after job,,sought-after job,previous job,sought-after job,,,,,previous job,,previous job,,previous job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,yes,yes,village,male,18 - 24 years,higher
+97,yes,no,,sought-after job,previous job,,,,,,,,,,,,,sought-after job,,,,,,,,,,,previous job,,yes,yes,200k - 500k inhabitants,female,25 - 30 years,higher
+98,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,more than 500k inhabitants,female,18 - 24 years,secondary
+100,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,20k - 49k inhabitants,male,25 - 30 years,basic
+1398,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,50k - 99k inhabitants,male,18 - 24 years,secondary
+102,yes,yes,,sought-after job,,sought-after job,,sought-after job,current job,sought-after job,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,village,female,25 - 30 years,secondary
+104,yes,yes,current job,sought-after job,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,20k - 49k inhabitants,female,41 - 50 years,secondary
+99,yes,no,,,,,,sought-after job,,sought-after job,,sought-after job,previous job,,,sought-after job,previous job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,,,,,yes,yes,city up to 20k inhabitants,male,25 - 30 years,basic
+101,yes,no,previous job,,,,,,,sought-after job,,,,,,,,,,sought-after job,previous job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,yes,no,village,male,31 - 40 years,vocational
+103,yes,no,,sought-after job,,sought-after job,previous job,sought-after job,,,,,,,,sought-after job,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,yes,no,100k - 199k inhabitants,male,18 - 24 years,vocational
+9,yes,yes,current job,,,sought-after job,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,200k - 500k inhabitants,female,41 - 50 years,secondary
+10,yes,yes,,,,,current job,sought-after job,,,,,,,,,,,current job,,,,,sought-after job,,,,,,,NULL,yes,more than 500k inhabitants,male,41 - 50 years,vocational
+11,yes,no,previous job,,,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,no,50k - 99k inhabitants,male,41 - 50 years,secondary
+12,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,50k - 99k inhabitants,male,more than 50 years,vocational
+13,yes,no,,,,,,,previous job,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,village,male,more than 50 years,secondary
+14,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,male,41 - 50 years,secondary
+15,yes,no,previous job,sought-after job,,,,,,,,,,,,sought-after job,,,,,,,,,,,,,previous job,,yes,no,100k - 199k inhabitants,female,more than 50 years,secondary
+16,yes,no,previous job,,,,,sought-after job,,,,,,,,,,,previous job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,yes,no,200k - 500k inhabitants,male,25 - 30 years,secondary
+1089,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,female,31 - 40 years,higher
+1090,yes,no,,,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,yes,more than 500k inhabitants,female,31 - 40 years,higher
+1091,yes,no,previous job,sought-after job,,,,,,,,,,,,,,,,sought-after job,,,previous job,,,,,,,,yes,no,50k - 99k inhabitants,male,more than 50 years,vocational
+1092,yes,yes,current job,sought-after job,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,200k - 500k inhabitants,female,18 - 24 years,secondary
+1095,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,20k - 49k inhabitants,female,41 - 50 years,secondary
+1096,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,yes,100k - 199k inhabitants,female,41 - 50 years,basic
+526,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,village,male,18 - 24 years,secondary
+1093,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,sought-after job,,,,,,,,,,,yes,yes,more than 500k inhabitants,male,18 - 24 years,secondary
+1094,yes,no,,,,,previous job,,,sought-after job,,,,,previous job,,,sought-after job,,sought-after job,,,,,,,,,,,yes,no,200k - 500k inhabitants,female,25 - 30 years,higher
+713,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,sought-after job,,,,,,,,,,,yes,no,50k - 99k inhabitants,male,18 - 24 years,secondary
+714,yes,no,,,previous job,sought-after job,,sought-after job,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,no,village,male,41 - 50 years,secondary
+527,yes,no,previous job,,,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,city up to 20k inhabitants,female,25 - 30 years,secondary
+528,yes,no,,,previous job,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,200k - 500k inhabitants,female,more than 50 years,vocational
+1273,yes,yes,,,,,current job,,,,,,,,,,,,current job,sought-after job,,sought-after job,,,,,,,,,NULL,no,more than 500k inhabitants,female,18 - 24 years,secondary
+1274,yes,yes,,,,sought-after job,current job,sought-after job,,,,,,,,,,,current job,sought-after job,,sought-after job,,,,,,,,,NULL,no,village,male,18 - 24 years,secondary
+1275,yes,no,,sought-after job,,sought-after job,,,,,previous job,,,,previous job,,,,,,,,,,,,,,,sought-after job,yes,yes,village,female,31 - 40 years,basic
+1276,yes,yes,,,,,current job,,,sought-after job,,,,,current job,,,,,,,sought-after job,,,,,,,,,NULL,yes,village,male,25 - 30 years,higher
+1277,yes,yes,current job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,,,,,,,current job,,,sought-after job,,,,,,,,,NULL,no,city up to 20k inhabitants,male,31 - 40 years,higher
+1278,yes,no,,sought-after job,,sought-after job,previous job,sought-after job,,sought-after job,,,,,previous job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,,,yes,yes,village,female,18 - 24 years,secondary
+1279,yes,yes,current job,,,,,,,sought-after job,,,,,,,,,current job,,,,,,,sought-after job,,,,,NULL,yes,200k - 500k inhabitants,male,41 - 50 years,secondary
+1280,yes,no,previous job,,previous job,,,sought-after job,,,,,,,previous job,,,,,sought-after job,,,,,,,,,,,yes,yes,city up to 20k inhabitants,female,18 - 24 years,secondary
+1153,yes,no,,,,,,,previous job,,,,,sought-after job,,,,,,,previous job,sought-after job,,,,,,,,,yes,no,village,male,31 - 40 years,vocational
+1154,yes,yes,current job,,,sought-after job,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,200k - 500k inhabitants,female,18 - 24 years,secondary
+1155,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,no,more than 500k inhabitants,male,more than 50 years,vocational
+1156,yes,no,previous job,,,,,,,,,,,,,,,,,,,,,,,,,,previous job,,yes,no,100k - 199k inhabitants,male,more than 50 years,secondary
+1157,yes,no,,,,,previous job,sought-after job,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,yes,village,female,18 - 24 years,secondary
+1158,yes,no,,,previous job,,,,,,,,,sought-after job,,,,,,,,,,,,,,,previous job,sought-after job,yes,yes,city up to 20k inhabitants,male,31 - 40 years,higher
+1159,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,male,31 - 40 years,higher
+1160,yes,no,,sought-after job,previous job,,,,,,,,,,,,,,,,,,,,,,,,previous job,sought-after job,yes,yes,more than 500k inhabitants,female,18 - 24 years,higher
+1737,yes,no,,,,,previous job,sought-after job,,,,,,,,,,sought-after job,previous job,sought-after job,,sought-after job,,,,,,,,,yes,no,200k - 500k inhabitants,male,31 - 40 years,secondary
+1738,yes,no,,sought-after job,previous job,sought-after job,,,,,,,,,previous job,,,,,sought-after job,,sought-after job,,,,,,,,,yes,no,100k - 199k inhabitants,male,31 - 40 years,secondary
+1739,yes,no,,,previous job,,,,,sought-after job,,,,,,,,,,,,,,,,,,,previous job,sought-after job,yes,no,village,female,31 - 40 years,higher
+1740,yes,no,,,,,previous job,sought-after job,,sought-after job,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,no,village,female,25 - 30 years,higher
+1741,yes,no,,,,sought-after job,,,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,no,village,male,31 - 40 years,secondary
+1742,yes,no,,sought-after job,,,,,,,,,,,,,,sought-after job,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,31 - 40 years,vocational
+1743,yes,yes,,,,sought-after job,current job,,,,,,,,,,current job,,,,,,,,,,,,,sought-after job,NULL,no,village,male,31 - 40 years,vocational
+1744,yes,no,,,,,previous job,sought-after job,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,no,village,female,31 - 40 years,higher
+2481,yes,yes,,,,,,sought-after job,current job,,,,,,,,,,current job,,,sought-after job,,,,,,,,,NULL,no,village,male,31 - 40 years,secondary
+2482,yes,yes,,,,,current job,,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,yes,50k - 99k inhabitants,male,31 - 40 years,secondary
+2483,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,,,,,,,,,,,,,sought-after job,yes,no,20k - 49k inhabitants,female,31 - 40 years,secondary
+2484,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,,,sought-after job,,,,,,,,,,,yes,yes,100k - 199k inhabitants,male,31 - 40 years,vocational
+2485,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,,,yes,no,20k - 49k inhabitants,male,18 - 24 years,vocational
+2486,yes,yes,,,current job,,,,,,,,,sought-after job,,,,,,,current job,,,sought-after job,,,,,,,NULL,yes,village,female,31 - 40 years,secondary
+2487,yes,no,,,,,previous job,,,,,,,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,yes,yes,20k - 49k inhabitants,male,more than 50 years,higher
+2488,yes,no,,sought-after job,previous job,sought-after job,,sought-after job,previous job,sought-after job,,,,,,,previous job,,,,,,,,,,,,,sought-after job,yes,no,village,female,25 - 30 years,higher
+1393,yes,yes,,sought-after job,current job,sought-after job,,,,,,,,,current job,sought-after job,,,,,,,,,,,,,,,NULL,no,200k - 500k inhabitants,female,less than 18 years,secondary
+1394,yes,no,,,,,,,previous job,,,,,,previous job,,,,,,,,,,,,,,,,yes,yes,city up to 20k inhabitants,female,25 - 30 years,secondary
+1397,yes,no,,,previous job,sought-after job,,,,,,,,,previous job,,,,,sought-after job,,,,,,,,,,,yes,no,more than 500k inhabitants,male,more than 50 years,vocational
+1395,yes,no,,,previous job,,,sought-after job,,,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,yes,yes,more than 500k inhabitants,male,41 - 50 years,basic
+1396,yes,no,,sought-after job,previous job,sought-after job,,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,200k - 500k inhabitants,male,more than 50 years,higher
+1399,yes,no,,,previous job,,,sought-after job,,,,,,,previous job,,,,,sought-after job,,sought-after job,,,,,,,,,yes,no,village,male,25 - 30 years,higher
+1400,yes,yes,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,current job,,current job,,current job,,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,NULL,no,village,male,31 - 40 years,basic
+1849,yes,no,,,,,previous job,,,sought-after job,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,village,female,41 - 50 years,vocational
+1850,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,village,male,25 - 30 years,vocational
+1851,yes,no,,sought-after job,,sought-after job,,,previous job,,,,,,,,,,,,,,,,,,,,previous job,sought-after job,yes,no,city up to 20k inhabitants,male,31 - 40 years,higher
+1852,yes,no,previous job,,,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,100k - 199k inhabitants,male,31 - 40 years,vocational
+1853,yes,no,,,previous job,,,sought-after job,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,city up to 20k inhabitants,male,more than 50 years,basic
+1854,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,city up to 20k inhabitants,female,25 - 30 years,higher
+1855,yes,no,previous job,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,male,31 - 40 years,secondary
+1856,yes,no,,,,,previous job,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,yes,no,200k - 500k inhabitants,male,more than 50 years,secondary
+1625,yes,no,previous job,,,,,sought-after job,,,,,,,,,previous job,,,,,,,,,,,,,sought-after job,yes,yes,village,female,25 - 30 years,higher
+1626,yes,no,,sought-after job,,sought-after job,previous job,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,31 - 40 years,secondary
+1627,yes,yes,current job,sought-after job,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,200k - 500k inhabitants,female,25 - 30 years,higher
+1628,yes,yes,,,current job,sought-after job,,,,,,,,,current job,,,,,,,sought-after job,,,,,,sought-after job,,,NULL,no,more than 500k inhabitants,female,18 - 24 years,secondary
+1629,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,city up to 20k inhabitants,female,25 - 30 years,secondary
+1630,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,50k - 99k inhabitants,female,18 - 24 years,basic
+1631,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,female,41 - 50 years,higher
+1037,yes,yes,,,,sought-after job,current job,sought-after job,,,,,,,,,current job,,,sought-after job,,sought-after job,,,,,,,,,NULL,no,village,female,25 - 30 years,higher
+1038,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,city up to 20k inhabitants,female,31 - 40 years,secondary
+1632,yes,yes,current job,sought-after job,current job,sought-after job,current job,sought-after job,,,,,,,,,,,,,,,,,,,,,current job,sought-after job,NULL,no,more than 500k inhabitants,male,25 - 30 years,vocational
+3057,yes,no,,,,,previous job,,,,,,,,,,previous job,,,,,,,,,,,,,,yes,no,village,male,18 - 24 years,secondary
+3058,yes,yes,,sought-after job,current job,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,50k - 99k inhabitants,female,31 - 40 years,secondary
+3059,yes,no,,sought-after job,,,,,previous job,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,50k - 99k inhabitants,female,18 - 24 years,higher
+3060,yes,no,,sought-after job,previous job,,,,,,,,,,,,,sought-after job,,,previous job,,,,,,,,,,yes,no,city up to 20k inhabitants,male,18 - 24 years,secondary
+3061,yes,no,previous job,sought-after job,,sought-after job,previous job,sought-after job,,,,,,,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,previous job,,yes,no,city up to 20k inhabitants,male,25 - 30 years,secondary
+3062,yes,no,,,previous job,,,,,,,,,,,,,,previous job,,,,,,,,,,,,yes,yes,20k - 49k inhabitants,male,more than 50 years,secondary
+3063,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,male,41 - 50 years,higher
+3064,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,200k - 500k inhabitants,female,31 - 40 years,higher
+257,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,yes,20k - 49k inhabitants,female,25 - 30 years,secondary
+259,yes,yes,,,,,,sought-after job,,sought-after job,current job,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,yes,20k - 49k inhabitants,female,18 - 24 years,higher
+260,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,20k - 49k inhabitants,male,41 - 50 years,vocational
+258,yes,yes,current job,,,,,,,sought-after job,,,,,,,,,current job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,NULL,yes,village,male,18 - 24 years,secondary
+261,yes,no,previous job,,,,,sought-after job,,,,,,,previous job,,,,,sought-after job,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,41 - 50 years,secondary
+262,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,female,18 - 24 years,higher
+263,yes,yes,current job,sought-after job,,,,,,,,,,,,,current job,,,,,sought-after job,,,,,,,,,NULL,no,more than 500k inhabitants,male,31 - 40 years,vocational
+264,yes,yes,current job,,,,,,,sought-after job,,,,,,,,,,,,,current job,sought-after job,,sought-after job,,,,,NULL,yes,city up to 20k inhabitants,male,25 - 30 years,vocational
+1033,yes,no,previous job,,,,,sought-after job,,,,,,,,,,,,,,,,,,,,,previous job,,yes,yes,city up to 20k inhabitants,female,18 - 24 years,secondary
+1034,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,31 - 40 years,secondary
+1035,yes,no,,,,,,sought-after job,previous job,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,no,village,female,more than 50 years,secondary
+1036,yes,no,previous job,,,,,,,,,sought-after job,,,previous job,,,,,,,,,sought-after job,,,,,,,yes,no,city up to 20k inhabitants,male,18 - 24 years,secondary
+1039,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,previous job,,,sought-after job,,sought-after job,,,,,,,,,,,yes,no,more than 500k inhabitants,female,18 - 24 years,secondary
+1040,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,sought-after job,,,,,,,,,,,yes,no,200k - 500k inhabitants,male,18 - 24 years,vocational
+3497,yes,no,previous job,,,,,sought-after job,,,,,,,previous job,,,,,,,,,,,,,,,sought-after job,yes,no,100k - 199k inhabitants,female,25 - 30 years,higher
+3498,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,200k - 500k inhabitants,female,25 - 30 years,higher
+3499,yes,no,,,previous job,,,,,,,,,,,,,,,,,,,,previous job,,previous job,,,,yes,no,20k - 49k inhabitants,male,more than 50 years,secondary
+3500,yes,no,previous job,,,,,,,sought-after job,,,,,,,,,,,,,,sought-after job,previous job,,,,,,yes,yes,50k - 99k inhabitants,male,more than 50 years,vocational
+3501,yes,yes,,,,,current job,sought-after job,,,,,,,,sought-after job,,,,,,,,,,,,,current job,,NULL,yes,100k - 199k inhabitants,male,41 - 50 years,secondary
+3502,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,city up to 20k inhabitants,male,31 - 40 years,secondary
+3503,yes,yes,,,,,,,current job,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,yes,200k - 500k inhabitants,male,25 - 30 years,secondary
+3504,yes,no,,sought-after job,,,,,,,,,previous job,,,,,sought-after job,previous job,sought-after job,,,,,,,,,,,yes,yes,city up to 20k inhabitants,male,31 - 40 years,higher
+2777,yes,yes,,sought-after job,current job,sought-after job,,sought-after job,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,village,female,18 - 24 years,vocational
+2778,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,50k - 99k inhabitants,female,18 - 24 years,higher
+2779,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,male,18 - 24 years,vocational
+2780,yes,yes,,sought-after job,current job,,,,,,,,,,,,,,,,,,,sought-after job,,,,,current job,,NULL,no,200k - 500k inhabitants,male,31 - 40 years,higher
+2781,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,100k - 199k inhabitants,female,18 - 24 years,secondary
+2782,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,200k - 500k inhabitants,male,more than 50 years,vocational
+2783,yes,no,,,,,,,,sought-after job,,,,,,,,sought-after job,,,,,,,,,,,,,yes,no,village,male,18 - 24 years,secondary
+2784,yes,no,,sought-after job,,,,,,sought-after job,previous job,,,,,,,,previous job,,,,,sought-after job,,sought-after job,,,,,yes,yes,100k - 199k inhabitants,male,25 - 30 years,higher
+2681,yes,no,,,previous job,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,yes,village,female,18 - 24 years,secondary
+2682,yes,no,,sought-after job,,sought-after job,,sought-after job,previous job,,,,,sought-after job,,,,sought-after job,,sought-after job,previous job,sought-after job,,sought-after job,,sought-after job,,,,,yes,no,100k - 199k inhabitants,male,more than 50 years,higher
+2683,yes,no,,,,,,,previous job,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,yes,no,city up to 20k inhabitants,male,more than 50 years,vocational
+2685,yes,no,previous job,,,,,,,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,yes,city up to 20k inhabitants,male,41 - 50 years,higher
+2684,yes,no,,sought-after job,,sought-after job,,sought-after job,previous job,sought-after job,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,yes,village,male,31 - 40 years,secondary
+2686,yes,no,previous job,,,,,,,sought-after job,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,yes,city up to 20k inhabitants,male,18 - 24 years,secondary
+2687,yes,yes,current job,,,sought-after job,,,,,,,,,,,,,current job,sought-after job,,sought-after job,,,,,,,,,NULL,yes,50k - 99k inhabitants,male,18 - 24 years,vocational
+2688,yes,no,,,,,previous job,sought-after job,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,more than 500k inhabitants,female,31 - 40 years,vocational
+393,yes,yes,,,current job,,,sought-after job,,,,,,,,,,,,,,,,,,,,,current job,sought-after job,NULL,no,city up to 20k inhabitants,male,25 - 30 years,secondary
+394,yes,yes,current job,sought-after job,,,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,yes,20k - 49k inhabitants,female,18 - 24 years,higher
+395,yes,no,,,previous job,sought-after job,,,,,,,,,previous job,,,sought-after job,,sought-after job,,sought-after job,,,,,,,,,yes,no,more than 500k inhabitants,male,41 - 50 years,secondary
+396,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,city up to 20k inhabitants,male,25 - 30 years,secondary
+397,yes,no,,,,,previous job,,,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,village,male,41 - 50 years,vocational
+398,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,,,,,sought-after job,,,,,,,,,yes,yes,city up to 20k inhabitants,male,31 - 40 years,secondary
+399,yes,yes,,,,,current job,,,,,sought-after job,,sought-after job,,,,,current job,sought-after job,,,,,,,,,,,NULL,no,200k - 500k inhabitants,male,18 - 24 years,secondary
+400,yes,no,previous job,,,sought-after job,,,,,,,,,,,,sought-after job,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,male,more than 50 years,vocational
+1961,yes,yes,current job,sought-after job,,sought-after job,,,,,,,,,,,current job,,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,,,NULL,no,200k - 500k inhabitants,male,25 - 30 years,higher
+1962,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,male,25 - 30 years,higher
+1963,yes,yes,,,,,current job,,,sought-after job,,,,,,,,,current job,,,sought-after job,,,,,,,,,NULL,no,village,male,31 - 40 years,higher
+1964,yes,no,,,,,previous job,,,,,,,,,,,,previous job,,,,,,,,,,,,yes,no,more than 500k inhabitants,male,more than 50 years,vocational
+787,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,200k - 500k inhabitants,male,25 - 30 years,higher
+1965,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,previous job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,yes,yes,more than 500k inhabitants,female,18 - 24 years,basic
+2282,yes,no,,,,sought-after job,,,,,,,previous job,,,,,sought-after job,,,,,previous job,,,,,,,,yes,no,city up to 20k inhabitants,male,18 - 24 years,secondary
+92,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,male,25 - 30 years,secondary
+93,yes,no,,,,,previous job,,,,previous job,,,,,,,,,,previous job,sought-after job,,,,,,,,,yes,yes,village,male,25 - 30 years,secondary
+1966,yes,no,,sought-after job,,sought-after job,previous job,sought-after job,,sought-after job,,,,,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,,,yes,yes,city up to 20k inhabitants,male,25 - 30 years,secondary
+1967,yes,no,,,,,,sought-after job,,,,,,,,,,,,sought-after job,,,,,,,,,,,yes,no,village,male,41 - 50 years,vocational
+1968,yes,no,,sought-after job,,,previous job,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,200k - 500k inhabitants,female,18 - 24 years,secondary
+2873,yes,no,,,,,previous job,sought-after job,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,,,yes,yes,village,female,18 - 24 years,secondary
+2874,yes,yes,,,,,,,,sought-after job,current job,,,,,,,,current job,,,sought-after job,,,,,,,,,NULL,no,city up to 20k inhabitants,male,41 - 50 years,higher
+2875,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,18 - 24 years,basic
+2876,yes,no,previous job,,,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,100k - 199k inhabitants,male,31 - 40 years,secondary
+2877,yes,no,,sought-after job,,sought-after job,previous job,sought-after job,,sought-after job,,,,,,,,,,,,,,,,,,,previous job,,yes,no,village,male,18 - 24 years,secondary
+2878,yes,no,previous job,,,sought-after job,,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,village,female,18 - 24 years,higher
+2879,yes,no,,,previous job,sought-after job,,,,,,,,,,,,,,,,,previous job,,,,,,,,yes,yes,20k - 49k inhabitants,female,31 - 40 years,secondary
+2880,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,male,31 - 40 years,basic
+1513,yes,no,,sought-after job,previous job,,,,,,,,,,previous job,,,sought-after job,,sought-after job,,,,,,,,,,,yes,no,village,female,18 - 24 years,basic
+1514,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,,,sought-after job,,,,,,,,,,,yes,no,20k - 49k inhabitants,male,31 - 40 years,vocational
+1515,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,50k - 99k inhabitants,female,18 - 24 years,secondary
+1516,yes,no,,sought-after job,previous job,,,,,,,,,,,sought-after job,,,,,,,,,,,,,previous job,,yes,no,more than 500k inhabitants,female,more than 50 years,secondary
+1517,yes,no,,sought-after job,previous job,sought-after job,,sought-after job,,sought-after job,,,,,previous job,sought-after job,previous job,sought-after job,previous job,sought-after job,,,,,,,,,,,yes,no,100k - 199k inhabitants,female,25 - 30 years,basic
+1518,yes,yes,,,,sought-after job,current job,,,,,,,,,,,,current job,sought-after job,,,,,,,,,,,NULL,no,village,female,25 - 30 years,higher
+1519,yes,yes,,,,,,sought-after job,,,current job,,,,,,,,,,,sought-after job,current job,sought-after job,,sought-after job,,,,,NULL,yes,100k - 199k inhabitants,male,25 - 30 years,higher
+1520,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,female,18 - 24 years,secondary
+785,yes,yes,,,current job,,,,,sought-after job,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,100k - 199k inhabitants,female,25 - 30 years,higher
+786,yes,yes,,,current job,sought-after job,,,,,,,,,,,,,,,,,,,,,,,,sought-after job,NULL,no,more than 500k inhabitants,female,18 - 24 years,higher
+788,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,yes,50k - 99k inhabitants,male,18 - 24 years,secondary
+789,yes,yes,current job,,,,,sought-after job,,,,,,,,,,,,,current job,,,sought-after job,,,,,,,NULL,no,city up to 20k inhabitants,male,31 - 40 years,secondary
+790,yes,no,previous job,,,,,,,sought-after job,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,village,female,31 - 40 years,higher
+791,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,20k - 49k inhabitants,female,31 - 40 years,higher
+792,yes,yes,current job,sought-after job,,,,,,,,,,,current job,,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,NULL,yes,200k - 500k inhabitants,female,18 - 24 years,higher
+657,yes,yes,,,,,current job,sought-after job,,,,,,,,,,,,,,,,,,,,,current job,sought-after job,NULL,no,city up to 20k inhabitants,male,31 - 40 years,vocational
+658,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,male,25 - 30 years,higher
+659,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,female,25 - 30 years,higher
+660,yes,yes,,,,,,,,,current job,,,,,,,,,,,,,,,,,,current job,,NULL,yes,50k - 99k inhabitants,male,31 - 40 years,secondary
+661,yes,yes,,sought-after job,current job,sought-after job,,sought-after job,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,200k - 500k inhabitants,female,18 - 24 years,higher
+662,yes,no,previous job,,,,,sought-after job,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,no,village,female,25 - 30 years,secondary
+663,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,200k - 500k inhabitants,female,31 - 40 years,higher
+664,yes,no,previous job,sought-after job,,,,,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,yes,no,200k - 500k inhabitants,male,41 - 50 years,secondary
+3665,yes,no,,sought-after job,,sought-after job,previous job,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,more than 500k inhabitants,male,18 - 24 years,secondary
+3666,yes,no,,sought-after job,previous job,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,yes,no,20k - 49k inhabitants,male,18 - 24 years,vocational
+3667,yes,no,,,,,previous job,sought-after job,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,more than 500k inhabitants,female,18 - 24 years,secondary
+3668,yes,yes,,,,,current job,sought-after job,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,yes,village,female,41 - 50 years,secondary
+3669,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,male,25 - 30 years,secondary
+3670,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,100k - 199k inhabitants,female,31 - 40 years,vocational
+3671,yes,yes,,,,,,sought-after job,current job,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,200k - 500k inhabitants,female,41 - 50 years,higher
+3672,yes,no,,,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,city up to 20k inhabitants,female,25 - 30 years,secondary
+2281,yes,no,previous job,,,sought-after job,,,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,yes,no,50k - 99k inhabitants,male,more than 50 years,secondary
+2283,yes,yes,current job,,,sought-after job,,sought-after job,,sought-after job,,,,,,,current job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,NULL,yes,village,female,18 - 24 years,secondary
+2284,yes,yes,current job,sought-after job,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,200k - 500k inhabitants,male,31 - 40 years,vocational
+2285,yes,yes,,,current job,,,sought-after job,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,yes,more than 500k inhabitants,male,18 - 24 years,secondary
+2286,yes,no,,,previous job,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,100k - 199k inhabitants,male,more than 50 years,higher
+715,yes,no,,sought-after job,previous job,sought-after job,previous job,sought-after job,,,,,,,previous job,sought-after job,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,no,more than 500k inhabitants,female,25 - 30 years,higher
+716,yes,yes,,,,,current job,sought-after job,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,yes,village,female,more than 50 years,secondary
+717,yes,no,,sought-after job,previous job,sought-after job,,sought-after job,,,,,,,previous job,sought-after job,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,yes,no,200k - 500k inhabitants,male,25 - 30 years,basic
+718,yes,yes,,sought-after job,,sought-after job,,sought-after job,current job,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,yes,city up to 20k inhabitants,female,less than 18 years,basic
+719,yes,no,,,previous job,sought-after job,,,,,,,,,,sought-after job,previous job,sought-after job,,,,,,,,,,,,,yes,no,100k - 199k inhabitants,female,18 - 24 years,secondary
+720,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,200k - 500k inhabitants,female,18 - 24 years,secondary
+2009,yes,yes,current job,,,sought-after job,,,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,50k - 99k inhabitants,female,41 - 50 years,secondary
+2010,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,male,25 - 30 years,secondary
+2011,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,50k - 99k inhabitants,male,more than 50 years,higher
+2012,yes,yes,current job,,,sought-after job,,,,,,,,,,,current job,,,,,sought-after job,,,,,,,,,NULL,yes,more than 500k inhabitants,female,41 - 50 years,higher
+2013,yes,yes,,sought-after job,,sought-after job,current job,sought-after job,,sought-after job,,,,,,,current job,,,sought-after job,,sought-after job,,,,,,,,,NULL,yes,more than 500k inhabitants,female,18 - 24 years,secondary
+2014,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,no,200k - 500k inhabitants,male,18 - 24 years,secondary
+2015,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,50k - 99k inhabitants,male,31 - 40 years,secondary
+2016,yes,no,,,previous job,,,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,yes,city up to 20k inhabitants,female,more than 50 years,secondary
+89,yes,yes,current job,,,sought-after job,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,yes,more than 500k inhabitants,female,25 - 30 years,higher
+90,yes,yes,current job,,,sought-after job,,,,,,,,,,,,,,,current job,sought-after job,,,,,,,,,NULL,no,more than 500k inhabitants,male,31 - 40 years,vocational
+91,yes,no,,,previous job,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,village,male,25 - 30 years,vocational
+94,yes,no,,,,sought-after job,previous job,,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,yes,yes,20k - 49k inhabitants,male,18 - 24 years,secondary
+95,yes,no,,,previous job,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,male,18 - 24 years,secondary
+96,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,200k - 500k inhabitants,female,25 - 30 years,secondary
+41,yes,no,previous job,,,,,sought-after job,,,,,,,,,,sought-after job,,,,,,,,,,,previous job,,yes,no,village,female,18 - 24 years,secondary
+42,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,,,,,,,,,,,,,previous job,sought-after job,yes,no,50k - 99k inhabitants,female,41 - 50 years,vocational
+43,yes,no,,,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,yes,village,male,18 - 24 years,secondary
+44,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,female,41 - 50 years,secondary
+45,yes,no,previous job,,,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,sought-after job,,,,,,,,,yes,no,more than 500k inhabitants,female,18 - 24 years,secondary
+46,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,100k - 199k inhabitants,male,18 - 24 years,higher
+47,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,100k - 199k inhabitants,female,18 - 24 years,secondary
+48,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,,sought-after job,,,,,,,,,,,,,previous job,,yes,no,200k - 500k inhabitants,male,18 - 24 years,vocational
+841,yes,yes,,sought-after job,,,current job,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,yes,100k - 199k inhabitants,female,31 - 40 years,higher
+842,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,village,female,18 - 24 years,vocational
+843,yes,no,previous job,,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,city up to 20k inhabitants,female,more than 50 years,secondary
+844,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,male,18 - 24 years,vocational
+845,yes,yes,current job,sought-after job,,,,,,,,,,,,,,,,,,,,,,,,,current job,sought-after job,NULL,no,more than 500k inhabitants,female,18 - 24 years,secondary
+846,yes,no,previous job,,previous job,,,sought-after job,,,,,,,,sought-after job,,sought-after job,,,,,,,,,,,previous job,,yes,yes,200k - 500k inhabitants,female,18 - 24 years,vocational
+847,yes,yes,,,current job,,,,,sought-after job,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,yes,more than 500k inhabitants,female,25 - 30 years,higher
+848,yes,no,,,previous job,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,yes,village,female,25 - 30 years,higher
+585,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,male,less than 18 years,higher
+586,yes,no,,,,sought-after job,,,previous job,,,,,,,,,sought-after job,,,previous job,,,,,,,,,,yes,no,city up to 20k inhabitants,female,more than 50 years,higher
+587,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,50k - 99k inhabitants,female,41 - 50 years,higher
+588,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,male,18 - 24 years,secondary
+589,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,200k - 500k inhabitants,female,25 - 30 years,higher
+590,yes,no,,sought-after job,,,,,previous job,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,city up to 20k inhabitants,male,more than 50 years,secondary
+592,yes,no,,,,sought-after job,,,previous job,,,,,,,,previous job,,,,,sought-after job,,,,,,,,,yes,yes,100k - 199k inhabitants,male,25 - 30 years,vocational
+2529,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,male,41 - 50 years,vocational
+2530,yes,no,previous job,,,,,,,sought-after job,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,yes,50k - 99k inhabitants,female,more than 50 years,secondary
+2531,yes,yes,current job,sought-after job,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,city up to 20k inhabitants,female,more than 50 years,secondary
+591,yes,yes,current job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,,,,,,,,sought-after job,,sought-after job,,sought-after job,current job,,NULL,yes,200k - 500k inhabitants,male,25 - 30 years,higher
+2532,yes,yes,current job,,,,,sought-after job,,,,,,,current job,sought-after job,,sought-after job,,,,,,,,,,,,,NULL,no,more than 500k inhabitants,female,18 - 24 years,secondary
+2533,yes,no,previous job,,,,,,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,yes,yes,city up to 20k inhabitants,male,41 - 50 years,secondary
+2534,yes,no,,,previous job,,,sought-after job,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,village,male,41 - 50 years,secondary
+2535,yes,yes,,sought-after job,,,current job,,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,more than 500k inhabitants,male,more than 50 years,vocational
+2536,yes,no,previous job,,,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,41 - 50 years,secondary
+1449,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,male,41 - 50 years,higher
+1450,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,20k - 49k inhabitants,male,18 - 24 years,basic
+1451,yes,yes,current job,sought-after job,,sought-after job,,,,,,,,,,,current job,sought-after job,,sought-after job,,,,,,,,,,,NULL,no,village,male,18 - 24 years,secondary
+1452,yes,no,,sought-after job,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,50k - 99k inhabitants,female,18 - 24 years,higher
+1453,yes,yes,,,current job,,,sought-after job,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,20k - 49k inhabitants,female,31 - 40 years,secondary
+1454,yes,no,,,,,,,,sought-after job,,,previous job,,previous job,,,,,,,,,sought-after job,,,,,,,yes,yes,village,male,31 - 40 years,vocational
+1455,yes,yes,current job,,,sought-after job,,,,,,,,,,,current job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,NULL,yes,200k - 500k inhabitants,female,18 - 24 years,higher
+1456,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,female,18 - 24 years,secondary
+185,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,18 - 24 years,higher
+186,yes,no,,,,,,sought-after job,,,,,previous job,,,,,,previous job,sought-after job,,,,,,,,,,,yes,yes,50k - 99k inhabitants,male,31 - 40 years,vocational
+187,yes,no,previous job,,,,,,,,,sought-after job,,,,,,,,,,sought-after job,previous job,,,,,,,,yes,yes,200k - 500k inhabitants,male,41 - 50 years,vocational
+188,yes,no,,sought-after job,,sought-after job,previous job,sought-after job,,,,,,,,,,,,,,sought-after job,previous job,sought-after job,,sought-after job,,sought-after job,,,yes,no,more than 500k inhabitants,male,18 - 24 years,basic
+189,yes,no,,,,,,,previous job,sought-after job,previous job,sought-after job,,,,,,,,,previous job,,,,,sought-after job,,,,,yes,no,20k - 49k inhabitants,male,31 - 40 years,higher
+190,yes,yes,,,,,,sought-after job,,,,,,,,,,,,sought-after job,,,,,,,,,,,NULL,no,more than 500k inhabitants,male,18 - 24 years,secondary
+191,yes,yes,,,,,,sought-after job,current job,,,,,,,,current job,,,sought-after job,,sought-after job,,,,,,,,,NULL,no,50k - 99k inhabitants,male,31 - 40 years,secondary
+192,yes,no,,,,,previous job,,,sought-after job,,,,,,,previous job,,,sought-after job,,sought-after job,,,,,,,,,yes,no,village,male,more than 50 years,vocational
+321,yes,no,,,,sought-after job,previous job,sought-after job,,,,,,,previous job,,,sought-after job,,sought-after job,,,,,,,,,,,yes,no,village,female,31 - 40 years,higher
+322,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,200k - 500k inhabitants,female,25 - 30 years,higher
+323,yes,yes,current job,sought-after job,,sought-after job,,,,,,,,,,,,,current job,,,sought-after job,,sought-after job,,,,,,,NULL,no,100k - 199k inhabitants,male,31 - 40 years,secondary
+324,yes,yes,,,current job,sought-after job,,,,,,,,,,,,,,sought-after job,,,,,,,,,current job,,NULL,no,village,female,31 - 40 years,secondary
+325,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,50k - 99k inhabitants,male,18 - 24 years,higher
+326,yes,yes,,,,sought-after job,current job,,,,,,,,,,,,,,current job,sought-after job,,,,,,,,,NULL,yes,100k - 199k inhabitants,male,31 - 40 years,secondary
+327,yes,no,previous job,,,sought-after job,,,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,yes,yes,city up to 20k inhabitants,male,25 - 30 years,vocational
+328,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,city up to 20k inhabitants,male,41 - 50 years,vocational
+3009,yes,no,previous job,,,,,,,,,,,,previous job,,,,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,male,more than 50 years,vocational
+3010,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,,,yes,no,100k - 199k inhabitants,female,31 - 40 years,secondary
+3011,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,female,18 - 24 years,secondary
+3012,yes,no,previous job,sought-after job,,,,,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,yes,no,more than 500k inhabitants,male,41 - 50 years,secondary
+3013,yes,yes,,,,,,sought-after job,current job,,,,,,current job,,,,,sought-after job,,,,sought-after job,,,,,,,NULL,no,city up to 20k inhabitants,female,18 - 24 years,secondary
+3014,yes,yes,current job,,,,,sought-after job,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,20k - 49k inhabitants,female,31 - 40 years,higher
+3015,yes,no,previous job,sought-after job,,,,,,,,,,,,,,,,,,,,,,,,,previous job,sought-after job,yes,yes,village,female,18 - 24 years,vocational
+3016,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,male,18 - 24 years,secondary
+3537,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,city up to 20k inhabitants,female,less than 18 years,basic
+3538,yes,no,,sought-after job,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,sought-after job,,sought-after job,,sought-after job,previous job,,,,,,,,yes,yes,20k - 49k inhabitants,male,25 - 30 years,higher
+3539,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,village,female,18 - 24 years,secondary
+3540,yes,no,,,,,,,previous job,,,,,,previous job,,,,,,,,,,,,,,,,yes,no,city up to 20k inhabitants,female,41 - 50 years,basic
+3541,yes,no,,,,sought-after job,previous job,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,village,female,25 - 30 years,higher
+1684,yes,no,previous job,,,,,sought-after job,,,,,,,previous job,,,,,sought-after job,,,,,,,,,,,yes,yes,200k - 500k inhabitants,male,41 - 50 years,higher
+3542,yes,no,previous job,sought-after job,previous job,sought-after job,,sought-after job,,,,,,,,,previous job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,,,yes,no,50k - 99k inhabitants,male,18 - 24 years,secondary
+3543,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,50k - 99k inhabitants,female,31 - 40 years,higher
+3544,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,yes,more than 500k inhabitants,female,18 - 24 years,higher
+969,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,city up to 20k inhabitants,female,25 - 30 years,vocational
+970,yes,no,previous job,,,sought-after job,,,,,,,,,,,,,,sought-after job,,,,,,,,,previous job,,yes,no,village,female,more than 50 years,secondary
+971,yes,no,,,,sought-after job,,,,,,,previous job,,,,,sought-after job,previous job,sought-after job,,,,,,,,,,,yes,no,100k - 199k inhabitants,male,18 - 24 years,secondary
+972,yes,no,,,previous job,,,,,,,,,,previous job,,,,,,,,,,,,,,,,yes,yes,200k - 500k inhabitants,female,18 - 24 years,higher
+973,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,male,31 - 40 years,secondary
+974,yes,yes,,sought-after job,,sought-after job,,sought-after job,current job,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,yes,village,female,25 - 30 years,higher
+975,yes,yes,current job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,current job,,,,,sought-after job,,,,,,,,,NULL,no,village,male,41 - 50 years,higher
+976,yes,yes,,,,,,,current job,sought-after job,,,,,,,current job,sought-after job,,,,,,,,,,,,,NULL,no,200k - 500k inhabitants,male,31 - 40 years,vocational
+1793,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,50k - 99k inhabitants,male,31 - 40 years,secondary
+1794,yes,yes,,sought-after job,current job,,,,,,,,,,,,,sought-after job,,,,,,,,,,,current job,,NULL,yes,village,female,18 - 24 years,higher
+1795,yes,yes,,,,,,sought-after job,,,,,,,,,,,,sought-after job,,,,,,,,,,,NULL,no,village,male,41 - 50 years,vocational
+1796,yes,no,previous job,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,yes,20k - 49k inhabitants,female,25 - 30 years,secondary
+1797,yes,no,previous job,sought-after job,,,,,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,yes,no,more than 500k inhabitants,male,more than 50 years,vocational
+1798,yes,yes,,sought-after job,current job,,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,yes,more than 500k inhabitants,female,18 - 24 years,secondary
+1799,yes,no,previous job,sought-after job,,,,,,,,,,,,,,,,sought-after job,,,,,,,,,,,yes,no,200k - 500k inhabitants,female,41 - 50 years,secondary
+1800,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,female,more than 50 years,secondary
+1681,yes,no,,sought-after job,previous job,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,more than 500k inhabitants,male,18 - 24 years,vocational
+1682,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,city up to 20k inhabitants,male,18 - 24 years,secondary
+1683,yes,no,previous job,,,,,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,city up to 20k inhabitants,female,41 - 50 years,secondary
+1685,yes,no,,,,,previous job,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,village,female,25 - 30 years,higher
+1686,yes,yes,,sought-after job,,sought-after job,current job,sought-after job,,sought-after job,,,,,,,current job,,,sought-after job,,sought-after job,,,,,,,,,NULL,no,more than 500k inhabitants,female,31 - 40 years,higher
+1687,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,more than 50 years,secondary
+1688,yes,no,,,previous job,sought-after job,,,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,yes,yes,more than 500k inhabitants,male,more than 50 years,secondary
+2225,yes,no,,,previous job,,,sought-after job,,,,,,,previous job,,,sought-after job,,sought-after job,,,,,,,,,,,yes,no,village,female,18 - 24 years,secondary
+2226,yes,yes,,sought-after job,current job,,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,20k - 49k inhabitants,male,18 - 24 years,basic
+2227,yes,no,previous job,sought-after job,previous job,sought-after job,,,,,,,,,previous job,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,no,200k - 500k inhabitants,female,18 - 24 years,higher
+2228,yes,no,,,previous job,,,sought-after job,,,,,,,,,,sought-after job,,,previous job,,,,,,,,,,yes,no,200k - 500k inhabitants,male,41 - 50 years,secondary
+2229,yes,yes,current job,,,,,sought-after job,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,yes,50k - 99k inhabitants,male,31 - 40 years,higher
+2230,yes,no,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,,,previous job,,,sought-after job,,,,,,,,,yes,no,200k - 500k inhabitants,male,31 - 40 years,vocational
+2231,yes,no,,,,,,sought-after job,,,,,previous job,,,,,,,,previous job,,,sought-after job,,,,,,,yes,yes,20k - 49k inhabitants,male,25 - 30 years,secondary
+2232,yes,no,,sought-after job,,,previous job,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,no,200k - 500k inhabitants,female,18 - 24 years,vocational
+457,yes,yes,,,current job,,,sought-after job,,sought-after job,,,,,,,,,,,,sought-after job,current job,,,,,,,,NULL,yes,20k - 49k inhabitants,male,31 - 40 years,vocational
+458,yes,no,previous job,,,,,,,sought-after job,,,,,previous job,,,,,sought-after job,,,,,,,,,,,yes,no,village,male,41 - 50 years,secondary
+460,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,city up to 20k inhabitants,female,18 - 24 years,secondary
+459,yes,no,,sought-after job,,sought-after job,previous job,,,,,,,,,,,,,sought-after job,previous job,sought-after job,,,,,,,,,yes,no,20k - 49k inhabitants,male,more than 50 years,secondary
+461,yes,yes,current job,,,sought-after job,,,,,,,,,current job,,,sought-after job,,sought-after job,,,,,,,,,,,NULL,no,200k - 500k inhabitants,female,31 - 40 years,higher
+462,yes,no,previous job,,,,,,,,,,,,,,,,,,,,,,,,,,previous job,,yes,no,50k - 99k inhabitants,female,25 - 30 years,secondary
+463,yes,no,,sought-after job,,,previous job,,,,,,,,,,,sought-after job,previous job,,,,,,,,,,,,yes,no,village,female,more than 50 years,secondary
+464,yes,yes,,,,sought-after job,,,,,,,,,,,,,current job,,,,,sought-after job,,,,,,,NULL,no,village,male,more than 50 years,vocational
+2329,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,city up to 20k inhabitants,male,25 - 30 years,vocational
+2330,yes,no,,,,,previous job,,,sought-after job,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,yes,more than 500k inhabitants,female,31 - 40 years,secondary
+2331,yes,no,,,,,,,previous job,sought-after job,,,,,previous job,,,,,sought-after job,,,,,,,,,,,yes,no,village,female,18 - 24 years,secondary
+2332,yes,no,,,,,,,previous job,sought-after job,,,,,,,,sought-after job,,,,,,,,,,,previous job,,yes,no,village,female,18 - 24 years,secondary
+2333,yes,no,previous job,,,,,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,yes,no,20k - 49k inhabitants,male,31 - 40 years,vocational
+2334,yes,no,,,,sought-after job,,,previous job,,,,,,,,,,,sought-after job,previous job,sought-after job,,,,,,,,,yes,yes,city up to 20k inhabitants,female,25 - 30 years,higher
+2335,yes,yes,current job,,,,,sought-after job,,,,,,,,,current job,,,,,sought-after job,,,,,,,,,NULL,yes,village,male,31 - 40 years,vocational
+2336,yes,yes,,sought-after job,,,,,current job,,,,,,,,current job,sought-after job,,sought-after job,,,,,,,,,,,NULL,yes,50k - 99k inhabitants,male,18 - 24 years,vocational
+3281,yes,yes,,,,sought-after job,,,,,current job,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,100k - 199k inhabitants,male,41 - 50 years,secondary
+3282,yes,no,,,previous job,,,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,village,female,more than 50 years,secondary
+3283,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,previous job,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,yes,100k - 199k inhabitants,male,18 - 24 years,higher
+3284,yes,no,,sought-after job,,sought-after job,previous job,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,18 - 24 years,secondary
+3285,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,city up to 20k inhabitants,female,41 - 50 years,secondary
+3286,yes,yes,,,current job,,,,,sought-after job,,,,,,,,,current job,,,sought-after job,,,,,,,,,NULL,no,more than 500k inhabitants,male,25 - 30 years,higher
+2588,yes,yes,,sought-after job,current job,,,,,,,,,,,,current job,,,,,,,,,,,,,sought-after job,NULL,no,more than 500k inhabitants,female,25 - 30 years,secondary
+2591,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,city up to 20k inhabitants,female,18 - 24 years,secondary
+3287,yes,yes,current job,,current job,sought-after job,,,,,,,,,,,current job,,,sought-after job,,sought-after job,,,,,,,,,NULL,no,more than 500k inhabitants,female,31 - 40 years,higher
+3288,yes,no,,sought-after job,previous job,,,,,,,,,,previous job,,,,,sought-after job,,,,,,,,,,,yes,no,200k - 500k inhabitants,female,18 - 24 years,higher
+1905,yes,no,,,,,,sought-after job,,,previous job,,,,,,,,,,,,,,previous job,sought-after job,,,,,yes,no,city up to 20k inhabitants,male,41 - 50 years,higher
+1906,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,city up to 20k inhabitants,male,41 - 50 years,vocational
+1907,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,female,18 - 24 years,higher
+1908,yes,yes,,sought-after job,current job,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,more than 500k inhabitants,female,more than 50 years,vocational
+1909,yes,yes,,,,,,sought-after job,,,current job,,,,,,,,,,,,current job,,,sought-after job,,,,,NULL,no,village,male,18 - 24 years,vocational
+1910,yes,yes,current job,sought-after job,,,,,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,NULL,yes,20k - 49k inhabitants,female,41 - 50 years,higher
+1911,yes,yes,current job,sought-after job,,,,,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,city up to 20k inhabitants,female,more than 50 years,vocational
+1912,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,male,more than 50 years,higher
+3193,yes,no,previous job,,,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,25 - 30 years,higher
+3194,yes,no,,sought-after job,,,previous job,,,,,,,,,,,,,,,sought-after job,,,,,,,,,yes,yes,more than 500k inhabitants,male,31 - 40 years,higher
+3195,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,village,female,18 - 24 years,secondary
+3196,yes,no,,sought-after job,,sought-after job,previous job,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,no,100k - 199k inhabitants,female,18 - 24 years,secondary
+3197,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,,,sought-after job,,,,,,,,,,,yes,yes,200k - 500k inhabitants,male,18 - 24 years,higher
+3198,yes,no,,,,,,,,,previous job,,,,,,previous job,,,,,,,,,,,,,,yes,yes,more than 500k inhabitants,male,31 - 40 years,vocational
+3200,yes,no,,,previous job,sought-after job,,sought-after job,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,yes,village,female,18 - 24 years,secondary
+3199,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,,,previous job,,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,yes,no,200k - 500k inhabitants,female,18 - 24 years,secondary
+2122,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,50k - 99k inhabitants,female,more than 50 years,secondary
+2123,yes,no,,,,,previous job,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,city up to 20k inhabitants,male,18 - 24 years,secondary
+2288,yes,no,,,previous job,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,city up to 20k inhabitants,female,41 - 50 years,vocational
+2587,yes,no,,,,,,,previous job,,,,,sought-after job,,,,,previous job,,,,,sought-after job,,,,,,,yes,yes,village,male,31 - 40 years,secondary
+2121,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,yes,no,more than 500k inhabitants,female,18 - 24 years,secondary
+2287,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,previous job,,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,yes,yes,50k - 99k inhabitants,male,18 - 24 years,secondary
+2585,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,,,,sought-after job,previous job,sought-after job,,,,,,,,,,,yes,yes,200k - 500k inhabitants,male,25 - 30 years,secondary
+2586,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,,sought-after job,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,yes,100k - 199k inhabitants,female,18 - 24 years,vocational
+2589,yes,yes,,sought-after job,,sought-after job,current job,sought-after job,,sought-after job,,,,,,,,,,sought-after job,,,,,,,,,current job,,NULL,yes,village,female,18 - 24 years,higher
+2590,yes,no,previous job,,,sought-after job,,,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,41 - 50 years,basic
+2592,yes,yes,,,,,,sought-after job,,,current job,,,,,,current job,,,,,,,,,,,,,sought-after job,NULL,no,city up to 20k inhabitants,male,25 - 30 years,higher
+2177,yes,no,,,previous job,,,,,,,sought-after job,,,,,,sought-after job,,,,,,,,,,,previous job,,yes,yes,village,female,18 - 24 years,vocational
+2178,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,200k - 500k inhabitants,male,31 - 40 years,secondary
+2179,yes,no,,sought-after job,previous job,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,more than 500k inhabitants,female,more than 50 years,higher
+2180,yes,no,,sought-after job,previous job,,,,,,,,,,,,,sought-after job,,,,,,,,,,,previous job,,yes,no,more than 500k inhabitants,female,41 - 50 years,secondary
+2181,yes,yes,,,,sought-after job,,,current job,,,,,,,,,,,,current job,sought-after job,,,,,,,,,NULL,no,20k - 49k inhabitants,male,25 - 30 years,secondary
+2182,yes,yes,current job,sought-after job,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,no,more than 500k inhabitants,female,18 - 24 years,secondary
+2183,yes,no,previous job,,,,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,no,20k - 49k inhabitants,male,31 - 40 years,secondary
+2184,yes,no,,,,,,,,,previous job,sought-after job,,,,,,sought-after job,previous job,sought-after job,,sought-after job,,,,,,,,,yes,yes,village,male,31 - 40 years,secondary
+913,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,city up to 20k inhabitants,male,25 - 30 years,basic
+914,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,female,25 - 30 years,secondary
+915,yes,yes,,sought-after job,,,current job,,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,more than 500k inhabitants,female,31 - 40 years,secondary
+2079,yes,no,,,,sought-after job,previous job,,,,,,,,,,,,,,,,,,,,,,previous job,sought-after job,yes,no,100k - 199k inhabitants,male,18 - 24 years,secondary
+2080,yes,no,,sought-after job,,,,,,,,,previous job,,,,,,,,,,,,,sought-after job,,,previous job,,yes,no,200k - 500k inhabitants,male,31 - 40 years,secondary
+916,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,previous job,,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,yes,no,50k - 99k inhabitants,male,25 - 30 years,higher
+917,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,,,,,,,,,,,,,,,previous job,sought-after job,yes,no,50k - 99k inhabitants,female,31 - 40 years,secondary
+918,yes,no,previous job,sought-after job,,,,,,,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,yes,yes,more than 500k inhabitants,male,25 - 30 years,higher
+919,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,20k - 49k inhabitants,male,31 - 40 years,secondary
+920,yes,no,,,,,previous job,sought-after job,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,yes,village,female,18 - 24 years,higher
+529,yes,yes,current job,,,sought-after job,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,50k - 99k inhabitants,male,41 - 50 years,vocational
+530,yes,no,,,previous job,,,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,100k - 199k inhabitants,male,31 - 40 years,vocational
+531,yes,no,,,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,,,,,,,,,,,previous job,sought-after job,yes,no,20k - 49k inhabitants,male,18 - 24 years,vocational
+532,yes,no,,,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,yes,village,female,18 - 24 years,secondary
+533,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,200k - 500k inhabitants,male,18 - 24 years,vocational
+534,yes,no,,,previous job,,,sought-after job,,,,,,,,,,,,,,,,,,,,,previous job,sought-after job,yes,yes,more than 500k inhabitants,female,18 - 24 years,secondary
+535,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,village,male,18 - 24 years,secondary
+536,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,more than 500k inhabitants,female,18 - 24 years,secondary
+2385,yes,no,,,previous job,,,,,sought-after job,,,,,previous job,,,,,sought-after job,,,,,,,,,,,yes,no,more than 500k inhabitants,female,18 - 24 years,higher
+2386,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,yes,no,100k - 199k inhabitants,male,18 - 24 years,vocational
+2387,yes,no,previous job,sought-after job,,,,,,,,,,,,sought-after job,,sought-after job,,,,,,,,,,,,,yes,no,100k - 199k inhabitants,female,18 - 24 years,higher
+2388,yes,yes,,,current job,sought-after job,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,100k - 199k inhabitants,male,18 - 24 years,basic
+2389,yes,yes,,,current job,,,,,,,,,sought-after job,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,100k - 199k inhabitants,male,18 - 24 years,secondary
+2390,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,male,25 - 30 years,secondary
+2392,yes,no,,,previous job,,,,,,,,,,,,,,,sought-after job,previous job,,,,,,,,,,yes,no,village,male,31 - 40 years,vocational
+2969,yes,yes,,sought-after job,current job,,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,no,50k - 99k inhabitants,male,more than 50 years,vocational
+2391,yes,no,,sought-after job,previous job,sought-after job,,,,,,,,,,,,,,,,sought-after job,,sought-after job,,,,,,,yes,no,more than 500k inhabitants,male,31 - 40 years,higher
+2970,yes,no,,,previous job,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,more than 500k inhabitants,female,25 - 30 years,secondary
+2971,yes,no,,,,sought-after job,,,previous job,,,,,,,,,sought-after job,,,,,,,,,,,,,yes,no,50k - 99k inhabitants,female,more than 50 years,vocational
+2972,yes,yes,current job,,,,,,,,,,,sought-after job,,,,,current job,,,,,,,sought-after job,,,,,NULL,yes,200k - 500k inhabitants,male,25 - 30 years,secondary
+2973,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,female,more than 50 years,higher
+2974,yes,no,,,,,previous job,,,,,,,,,,,,,,,,,,,,,,previous job,,yes,yes,village,female,31 - 40 years,basic
+2975,yes,yes,current job,,,sought-after job,,,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,50k - 99k inhabitants,female,31 - 40 years,higher
+2976,yes,yes,current job,sought-after job,,sought-after job,,,,,,,,,current job,,,sought-after job,,sought-after job,,,,,,,,,,,NULL,no,100k - 199k inhabitants,female,18 - 24 years,secondary
+3241,yes,no,previous job,,,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,yes,village,female,25 - 30 years,secondary
+3242,yes,no,previous job,,,sought-after job,,sought-after job,,,,,,,previous job,,,sought-after job,,sought-after job,,,,,,,,,,,yes,no,village,female,18 - 24 years,secondary
+3243,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,city up to 20k inhabitants,male,18 - 24 years,secondary
+3244,yes,no,,,previous job,sought-after job,,,,,,,,,previous job,,,,,,,,,,,,,,,,yes,no,village,female,31 - 40 years,secondary
+3245,yes,yes,current job,sought-after job,,,,,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,village,female,18 - 24 years,secondary
+3246,yes,no,,,previous job,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,50k - 99k inhabitants,female,31 - 40 years,secondary
+3247,yes,no,previous job,sought-after job,,,,,,,,,,,,sought-after job,previous job,,,,,,,,,,,,,,yes,no,more than 500k inhabitants,female,31 - 40 years,secondary
+3248,yes,no,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,previous job,sought-after job,,,yes,yes,200k - 500k inhabitants,female,25 - 30 years,vocational
+1281,yes,yes,,sought-after job,,sought-after job,,,current job,,,,,,current job,,,,,,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,NULL,yes,village,female,18 - 24 years,secondary
+1282,yes,no,,,previous job,sought-after job,,,,,,,,,previous job,,,,,sought-after job,,,,,,,,,,,yes,no,village,female,25 - 30 years,basic
+1283,yes,no,,,previous job,,,,,,,,,,previous job,,,,,,,,,,,,,,,,yes,no,village,female,41 - 50 years,secondary
+1284,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,20k - 49k inhabitants,female,more than 50 years,secondary
+1285,yes,yes,,,current job,,,sought-after job,,,,,,,,,,,current job,,,,,sought-after job,,,,,,,NULL,yes,200k - 500k inhabitants,male,41 - 50 years,secondary
+2078,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,male,41 - 50 years,higher
+1287,yes,no,,,previous job,sought-after job,,,,,,,,,,,previous job,,,,,sought-after job,,,,,,,,,yes,no,20k - 49k inhabitants,female,more than 50 years,secondary
+1288,yes,no,,,previous job,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,200k - 500k inhabitants,female,18 - 24 years,higher
+1286,yes,yes,,sought-after job,,sought-after job,current job,sought-after job,,,,,,,current job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,,,NULL,no,village,female,18 - 24 years,higher
+3329,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,city up to 20k inhabitants,male,more than 50 years,secondary
+3330,yes,no,previous job,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,yes,more than 500k inhabitants,female,18 - 24 years,higher
+3331,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,,,sought-after job,,,,,,,,,,,yes,no,200k - 500k inhabitants,female,25 - 30 years,vocational
+3332,yes,no,previous job,,,,,,,,,,,,,,,,,,,,,,,,,,previous job,,yes,no,village,female,31 - 40 years,secondary
+3333,yes,no,previous job,sought-after job,,,,,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,no,50k - 99k inhabitants,male,18 - 24 years,vocational
+3334,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,female,more than 50 years,vocational
+3335,yes,no,previous job,,,,,,,,,,,,,,previous job,,,,,,,,,,,,,,yes,yes,50k - 99k inhabitants,male,31 - 40 years,vocational
+3336,yes,no,,,,,previous job,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,100k - 199k inhabitants,female,18 - 24 years,higher
+1161,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,more than 500k inhabitants,female,31 - 40 years,secondary
+1162,yes,yes,,,,,,,current job,sought-after job,,,,,,,,,,,,,current job,,,sought-after job,,,,,NULL,no,200k - 500k inhabitants,female,41 - 50 years,higher
+1163,yes,no,,,,,previous job,sought-after job,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,village,female,25 - 30 years,secondary
+1164,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,male,25 - 30 years,higher
+1165,yes,no,previous job,,,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,50k - 99k inhabitants,male,31 - 40 years,vocational
+1166,yes,yes,,,,,current job,,,sought-after job,,,,,current job,,,sought-after job,,sought-after job,,,,,,,,,,,NULL,no,village,male,18 - 24 years,vocational
+1167,yes,yes,current job,,,sought-after job,,,,,,,,,current job,,,,,sought-after job,,,,,,,,,,,NULL,no,100k - 199k inhabitants,female,31 - 40 years,secondary
+1168,yes,no,,sought-after job,previous job,sought-after job,previous job,sought-after job,,,,,,,,,,,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,previous job,,yes,no,more than 500k inhabitants,male,more than 50 years,higher
+2073,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,city up to 20k inhabitants,female,less than 18 years,secondary
+2075,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,100k - 199k inhabitants,female,18 - 24 years,secondary
+2076,yes,no,previous job,,,sought-after job,,,,,,,,,,sought-after job,previous job,,,,,,,,,,,,,,yes,no,100k - 199k inhabitants,female,31 - 40 years,secondary
+3159,yes,no,,,,,,,previous job,,,,,,previous job,,,,,,,,,,,,,,,,yes,no,200k - 500k inhabitants,male,41 - 50 years,vocational
+3160,yes,no,previous job,,,,,sought-after job,,,,,,,,,,,,sought-after job,,,,,previous job,,,,,,yes,yes,more than 500k inhabitants,male,25 - 30 years,secondary
+265,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,200k - 500k inhabitants,female,31 - 40 years,secondary
+267,yes,yes,,,,,,sought-after job,current job,,,,,,,,,,current job,sought-after job,,,,,,,,,,,NULL,no,50k - 99k inhabitants,male,31 - 40 years,vocational
+268,yes,yes,,,,,,sought-after job,current job,,,,,,,,,,current job,,,sought-after job,,,,,,,,,NULL,yes,200k - 500k inhabitants,male,18 - 24 years,secondary
+2074,yes,no,previous job,sought-after job,,sought-after job,previous job,sought-after job,,,,,,,previous job,,,,,sought-after job,,sought-after job,,,,,,,,,yes,yes,20k - 49k inhabitants,male,18 - 24 years,secondary
+2077,yes,no,,sought-after job,,sought-after job,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,yes,no,city up to 20k inhabitants,male,18 - 24 years,secondary
+3585,yes,no,previous job,,,,,,,sought-after job,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,city up to 20k inhabitants,female,25 - 30 years,secondary
+3586,yes,no,previous job,,,sought-after job,,,,,,,,,,,,sought-after job,,,,,previous job,,,,,,,,yes,no,50k - 99k inhabitants,male,more than 50 years,secondary
+3587,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,female,25 - 30 years,higher
+3588,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,,,previous job,,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,,,,,yes,yes,20k - 49k inhabitants,female,18 - 24 years,secondary
+3589,yes,no,,,,,,,previous job,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,yes,no,more than 500k inhabitants,female,41 - 50 years,higher
+3590,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,city up to 20k inhabitants,female,18 - 24 years,basic
+3591,yes,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,no,50k - 99k inhabitants,male,18 - 24 years,basic
+3592,yes,no,,,,,previous job,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,yes,20k - 49k inhabitants,female,25 - 30 years,secondary
+1745,yes,yes,current job,sought-after job,,,,,,,,,,,,,current job,sought-after job,,,,,,,,,,,,,NULL,no,50k - 99k inhabitants,male,41 - 50 years,vocational
+1746,yes,no,previous job,sought-after job,,,,,,,,,,,previous job,,,,,,,,,,,,,,,sought-after job,yes,no,village,male,18 - 24 years,vocational
+1747,yes,yes,,sought-after job,current job,sought-after job,,,,,,,,,current job,,,sought-after job,,sought-after job,,,,,,,,,,,NULL,yes,20k - 49k inhabitants,male,18 - 24 years,secondary
+1748,yes,no,,,previous job,,,sought-after job,,,,,,,previous job,,,,,,,,,,,,,,,sought-after job,yes,no,city up to 20k inhabitants,female,25 - 30 years,higher
+1749,yes,no,previous job,sought-after job,,,,,,,,,,,,,,,,sought-after job,,sought-after job,,,,,,,previous job,,yes,no,more than 500k inhabitants,female,31 - 40 years,secondary
+1750,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,20k - 49k inhabitants,male,41 - 50 years,secondary
+1751,yes,yes,,sought-after job,current job,sought-after job,,sought-after job,,,,,,,,,current job,sought-after job,,sought-after job,,,,,,,,,,,NULL,no,200k - 500k inhabitants,female,31 - 40 years,secondary
+1752,yes,no,,,previous job,sought-after job,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,no,city up to 20k inhabitants,female,25 - 30 years,vocational
+3153,yes,yes,,,,sought-after job,current job,,,,,,,,,,,,current job,sought-after job,,,,,,,,,,,NULL,no,200k - 500k inhabitants,female,41 - 50 years,secondary
+3154,yes,yes,,,,,,sought-after job,current job,,,,,,,,current job,,,sought-after job,,sought-after job,,,,,,,,,NULL,no,village,female,25 - 30 years,higher
+3155,yes,no,,,,sought-after job,,,,,,,,,,,,,,,,sought-after job,,,,,,,,,yes,no,city up to 20k inhabitants,male,31 - 40 years,secondary
+3157,yes,no,,,previous job,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,200k - 500k inhabitants,female,18 - 24 years,higher
+3158,yes,yes,,sought-after job,current job,sought-after job,,,,,,,,,,,current job,,,sought-after job,,sought-after job,,,,,,,,,NULL,yes,more than 500k inhabitants,female,18 - 24 years,higher
+3156,yes,no,,sought-after job,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,no,more than 500k inhabitants,female,25 - 30 years,higher
+266,yes,no,,sought-after job,,,previous job,,,,,,,,,sought-after job,previous job,sought-after job,previous job,sought-after job,previous job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,yes,no,20k - 49k inhabitants,female,18 - 24 years,secondary
+269,yes,yes,,,,,,,,sought-after job,current job,,,,,,,,,,,,current job,,,sought-after job,,,,,NULL,no,50k - 99k inhabitants,male,31 - 40 years,secondary
+270,yes,no,previous job,sought-after job,,,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,yes,more than 500k inhabitants,male,more than 50 years,secondary
+271,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,female,18 - 24 years,vocational
+272,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,100k - 199k inhabitants,female,18 - 24 years,higher
+1401,yes,no,,,previous job,sought-after job,,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,100k - 199k inhabitants,male,41 - 50 years,secondary
+1402,yes,no,previous job,,,,,sought-after job,,,,,,,,,,sought-after job,,sought-after job,previous job,,,,,,,,,,yes,yes,village,female,18 - 24 years,higher
+1403,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,village,female,25 - 30 years,vocational
+1404,yes,no,,,previous job,sought-after job,,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,no,more than 500k inhabitants,male,18 - 24 years,higher
+1405,yes,no,previous job,,,sought-after job,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,more than 50 years,vocational
+1408,yes,no,,,previous job,,,sought-after job,,,,,,,,,previous job,,,,,,,,,,,,,sought-after job,yes,no,more than 500k inhabitants,male,more than 50 years,secondary
+1859,yes,no,,,,,previous job,sought-after job,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,city up to 20k inhabitants,male,41 - 50 years,higher
+1860,yes,no,previous job,,,,,sought-after job,,,,,,,previous job,,,sought-after job,,,,,,,,,,,,,yes,no,more than 500k inhabitants,male,25 - 30 years,secondary
+1406,yes,no,,sought-after job,previous job,sought-after job,,,,,,,,,,sought-after job,previous job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,yes,no,100k - 199k inhabitants,female,18 - 24 years,higher
+1407,yes,no,,sought-after job,,sought-after job,,sought-after job,previous job,sought-after job,,,,,,,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,yes,no,village,male,18 - 24 years,secondary
+1857,yes,yes,current job,sought-after job,,sought-after job,,,,,,,,,,,current job,,,sought-after job,,sought-after job,,,,,,,,,NULL,yes,200k - 500k inhabitants,male,18 - 24 years,secondary
+1858,yes,yes,,sought-after job,,sought-after job,,sought-after job,,sought-after job,current job,,,,,,,,,,,sought-after job,,sought-after job,,sought-after job,,,current job,,NULL,yes,city up to 20k inhabitants,male,31 - 40 years,higher
+1861,yes,yes,current job,,,sought-after job,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,yes,50k - 99k inhabitants,female,31 - 40 years,secondary
+1862,yes,no,previous job,,,,,,,sought-after job,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,,,yes,yes,village,male,25 - 30 years,vocational
+1576,yes,yes,,sought-after job,,sought-after job,current job,sought-after job,,,,,,,current job,,,,,,,sought-after job,,,,,,,,,NULL,no,village,male,more than 50 years,secondary
+3369,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,previous job,,,,,,,sought-after job,,,,,,,,,yes,no,village,female,18 - 24 years,higher
+1863,yes,no,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,previous job,sought-after job,,sought-after job,,sought-after job,,,,,,,,,yes,no,200k - 500k inhabitants,male,41 - 50 years,higher
+1864,yes,yes,current job,,,sought-after job,,sought-after job,,,,,,,,,,,,,,,,,,,,,current job,sought-after job,NULL,no,200k - 500k inhabitants,female,41 - 50 years,higher
+1633,yes,yes,,,,,current job,sought-after job,,sought-after job,,,,,,,current job,,,sought-after job,,,,,,,,,,,NULL,yes,village,male,25 - 30 years,secondary
+1634,yes,no,,,,,previous job,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,,,yes,no,village,female,more than 50 years,secondary
+1635,yes,yes,current job,sought-after job,,,,,,,,,,,current job,,,sought-after job,,,,,,,,,,,,,NULL,yes,village,female,18 - 24 years,higher
+1636,yes,no,,,,,,sought-after job,previous job,sought-after job,,,,,,,previous job,,previous job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,previous job,,yes,yes,50k - 99k inhabitants,male,31 - 40 years,vocational
+1637,yes,no,,sought-after job,previous job,sought-after job,,sought-after job,,sought-after job,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,,,yes,yes,20k - 49k inhabitants,female,18 - 24 years,vocational
+1638,yes,yes,current job,sought-after job,,sought-after job,,sought-after job,,sought-after job,,sought-after job,,,current job,,,sought-after job,,sought-after job,,,,,,,,,,,NULL,yes,village,male,18 - 24 years,secondary
+1639,yes,no,,,,,,,previous job,sought-after job,,,,,,,previous job,,,,,sought-after job,,,,,,,,,yes,no,village,male,25 - 30 years,secondary
+1640,yes,yes,,sought-after job,,,current job,,,,,,,,,,current job,,,,,,,sought-after job,,,,,,,NULL,yes,200k - 500k inhabitants,male,25 - 30 years,vocational
+2495,no,NULL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NULL,NULL,20k - 49k inhabitants,female,41 - 50 years,secondary
+2125,yes,no,previous job,,,,,,,sought-after job,,,,,previous job,,,,,sought-after job,,,,,,,,,,,yes,yes,village,male,25 - 30 years,secondary
+2126,yes,no,previous job,sought-after job,,,,,,,,,,,,,previous job,,,sought-after job,,,,,,,,,,,yes,no,20k - 49k inhabitants,female,31 - 40 years,higher
+1041,yes,no,,,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,yes,no,100k - 199k inhabitants,male,18 - 24 years,secondary
+1042,yes,no,previous job,sought-after job,,sought-after job,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,,,,,yes,no,200k - 500k inhabitants,male,18 - 24 years,secondary
+1043,yes,no,,,previous job,sought-after job,,,,,,,,,,,previous job,sought-after job,,,,,,,,,,,,,yes,no,more than 500k inhabitants,male,18 - 24 years,secondary
+1044,yes,no,previous job,sought-after job,,sought-after job,previous job,,,,,,,,,,,,previous job,sought-after job,,sought-after job,,,,,,,,,yes,no,village,male,18 - 24 years,secondary
