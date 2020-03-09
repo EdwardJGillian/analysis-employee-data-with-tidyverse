@@ -10,7 +10,7 @@ shinyUI(pageWithSidebar(
   
   sidebarPanel( 
     
-    checkboxInput(inputId = "Square",
+    checkboxInput(inputId = "square",
                   label = "Change shapes to squares in corrplot?",
                   value = FALSE),
     

@@ -30,7 +30,7 @@ shinyServer(function(input, output) { # server is defined within these parenthes
   output$Task1corrplot <- renderPlot({
     
     # checks to see if the user requested squares and change the corrplot graph 
-    if(input$Square){
+    if(input$square){
       
       cp_method <- "square"
       
@@ -120,7 +120,7 @@ shinyServer(function(input, output) { # server is defined within these parenthes
   output$Task2corrplot <- renderPlot({
     
     # checks to see if the user requested a square and change the corrplot graph 
-    if(input$Square){
+    if(input$square){
       
       cp_method <- "square"
       
