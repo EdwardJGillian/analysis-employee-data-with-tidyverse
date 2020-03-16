@@ -23,32 +23,32 @@ shinyServer(function(input, output) { # server is defined within these parenthes
   # mar sets the parameters for ensuring the main title is in the window 
   
   corrplot_function <- function(cp_title, cp_data, cp_method, bg_colour) {
-    corrplot(cp_data$residuals, method = cp_method, bg = bg_colour, is.cor = FALSE, tl.srt=45, cl.ratio = 1.5, cl.align = "r", title = cp_title,  mar=c(0,0,1,0))
+    corrplot(cp_data$residuals, method = cp_method, bg = bg_colour, is.cor = FALSE, tl.srt=45, cl.ratio = 1.5, cl.align = "r", 
+             title = cp_title,  mar=c(0,0,1,0))
   }
   
   # create the output for corrplot
   output$Task1corrplot <- renderPlot({
     
     # checks to see if the user requested squares and change the corrplot graph 
-    if(input$square){
+    if(input$square1){
       
-      cp_method <- "square"
+      cp_method1 <- "square"
       
     } else {
-      cp_method <- "circle"
+      cp_method1 <- "circle"
     }
     
     # checks to see if the user requested grey background colour and change the corrplot graph 
-    if(input$bg_colour){
+    if(input$bg_colour1){
       
-      cp_bg <- "yellow"
+      cp_bg1 <- "yellow"
       
     } else {
-      cp_bg <- "white"
+      cp_bg1 <- "white"
     }
-    
     # create corrplot for Task 1
-     corrplot_function(Title1, data1, cp_method, cp_bg)
+    corrplot_function(Title1, data1, cp_method1, cp_bg1)
   })
   
   # create text box with question and answers based on corrplot
@@ -120,25 +120,25 @@ shinyServer(function(input, output) { # server is defined within these parenthes
   output$Task2corrplot <- renderPlot({
     
     # checks to see if the user requested a square and change the corrplot graph 
-    if(input$square){
+    if(input$square2){
       
-      cp_method <- "square"
+      cp_method2 <- "square"
       
     } else {
-      cp_method <- "circle"
+      cp_method2 <- "circle"
     }
     
     # checks to see if the user requested grey background colour and change the corrplot graph 
-    if(input$bg_colour){
+    if(input$bg_colour2){
       
-      cp_bg <- "yellow"
+      cp_bg2 <- "yellow"
       
     } else {
-      cp_bg <- "white"
+      cp_bg2 <- "white"
     }
     
     # create corrplot for Task 2
-    corrplot_function(Title2, data2, cp_method, cp_bg)
+    corrplot_function(Title2, data2, cp_method2, cp_bg2)
   })
   
   # create text box with question and answers based on corrplot
@@ -227,8 +227,8 @@ shinyServer(function(input, output) { # server is defined within these parenthes
   
   # create the output for the AUC plot
   output$Task3AUCplot <- renderPlot({
-      # Plot ROC curve - Level 2 training set 
-      plot_ROC_function(plot_dataset, plot_title, plot_subtitle)
+    # Plot ROC curve - Level 2 training set 
+    plot_ROC_function(plot_dataset, plot_title, plot_subtitle)
   })
   
   # create the
@@ -250,4 +250,5 @@ shinyServer(function(input, output) { # server is defined within these parenthes
     )
     
   })
+  
 })
