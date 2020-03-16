@@ -3,7 +3,7 @@
 These R Shiny scripts use pivot_longer to group employee data in 2 semi-long formats as the data for salary and commuting have different factor levels.
 Also, different tidyverse techniques are used to create contingency tables for calculating statistics and graphing plots.
 Different plotting functions are used including ggplot2, corrplot, and base plot.
-The plots are displayed on a tabbed summary page in R Shiny.
+The plots are displayed on a tabbed summary page in R Shiny and reactive elements are inclued for the corrplot tabs.
 
 ### The code is written in R. 
 
